@@ -15,7 +15,7 @@ Materials
 
 * [Fluid / pipe](https://colab.research.google.com/drive/1rpkMxT3q8qKCjOy8sd6K1i3ttyqg278m?usp=drive_link)
 * Boat engine
-* Heat equation
+* [Heat equation](https://colab.research.google.com/drive/1uzbvraMrdzjS4JRed8eFCgpEwRf5L-aD#scrollTo=asobfIxNuPuB)
 * Maxwell equation and inductive coil
 * Quantum computing
 * Satalite speed
