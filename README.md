@@ -16,4 +16,7 @@ Materials
 * [Fluid / pipe](https://colab.research.google.com/drive/1rpkMxT3q8qKCjOy8sd6K1i3ttyqg278m?usp=drive_link)
 * Heat equation
 * Maxwell equation and inductive coil
+* Quantum computing
 * Satalite speed
+* Orbital sling shot
+* Morphogen gradient
