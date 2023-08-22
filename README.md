@@ -13,7 +13,7 @@ Materials
 
 # List
 
-* [Fluid / pipe (Thai version/most complete)](https://colab.research.google.com/drive/1CSfoOS8UgC1YjZ7Zuv1RymNFU_sbocnD#scrollTo=bh1xpNdyyZYB) (Done! 2023 Aug 20)
+* [Fluid / pipe (Thai version/most complete)](https://colab.research.google.com/drive/1CSfoOS8UgC1YjZ7Zuv1RymNFU_sbocnD#scrollTo=bh1xpNdyyZYB) (Done! 2023 Aug 23)
   * [Simplified version ](https://colab.research.google.com/drive/1HUYBOTKTb_zyzBD0ynmgaZrQihrW73sW#scrollTo=j3UOx7m3gngF)
   * Flow speed
     * Rainbird says < 1.5 m/s
