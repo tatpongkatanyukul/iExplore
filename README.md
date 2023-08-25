@@ -26,4 +26,7 @@ Materials
 * Quantum computing
 * Satalite speed
 * Orbital sling shot
+* Parallax
+* [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-)
 * Morphogen gradient
+* Evolution
