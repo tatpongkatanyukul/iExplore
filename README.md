@@ -14,19 +14,14 @@ Materials
 # List
 
 * [Fluid / pipe (Thai version/most complete)](https://colab.research.google.com/drive/1CSfoOS8UgC1YjZ7Zuv1RymNFU_sbocnD#scrollTo=bh1xpNdyyZYB) (Done! 2023 Aug 23)
-  * [Simplified version ](https://colab.research.google.com/drive/1HUYBOTKTb_zyzBD0ynmgaZrQihrW73sW#scrollTo=j3UOx7m3gngF)
-  * Flow speed
-    * Rainbird says < 1.5 m/s
-    * Thai Plumbing Engineer < 3 m/s
-    * Mitsubishi WCM-2205S Max flow rate with 2" outlet leads to 4.11 m/s
-    * I guess 4.11 m/s is OK, but better to keep it under 3 m/s! Yet super safe with under 1.5 m/s
+  * It also has curve intersection finding in the appendice 
 * Boat engine
-* [Heat equation](https://colab.research.google.com/drive/1QZOAOLwLW2BdN5s-1vDP2-bGzzO9NdL4#scrollTo=RTOGclgqVrom)
+* [Heat equation](https://colab.research.google.com/drive/1QZOAOLwLW2BdN5s-1vDP2-bGzzO9NdL4#scrollTo=RTOGclgqVrom) (need finishing with general form using Fourier series)
 * Maxwell equation and inductive coil
 * Quantum computing
 * Satalite speed
 * Orbital sling shot
 * Parallax
-* [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-)
+* [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-) (in the appendix)
 * Morphogen gradient
 * Evolution
