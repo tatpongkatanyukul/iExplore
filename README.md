@@ -14,7 +14,7 @@ Materials
 # List
 
 * [Fluid / pipe (Thai version/most complete)](https://colab.research.google.com/drive/1CSfoOS8UgC1YjZ7Zuv1RymNFU_sbocnD#scrollTo=bh1xpNdyyZYB) (Done! 2023 Aug 23)
-  * It also has curve intersection finding in the appendice 
+  * It also has curve-intersection finding in the appendice 
 * Boat engine
 * [Heat equation](https://colab.research.google.com/drive/1QZOAOLwLW2BdN5s-1vDP2-bGzzO9NdL4#scrollTo=RTOGclgqVrom) (need finishing with general form using Fourier series)
 * Maxwell equation and inductive coil
