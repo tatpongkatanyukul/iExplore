@@ -1,6 +1,11 @@
 # iExplore
 Intellectual Exploration Course
 
+Related course:
+* [EN813711](https://github.com/tatpongkatanyukul/iExplore/blob/main/EN813711Optimization/readme.md)
+
+---
+
 Materials
 * Quantum computing 2021
 * Solar roof and floating 2022
