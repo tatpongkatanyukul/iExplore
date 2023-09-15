@@ -33,6 +33,7 @@ Materials
   * Wave equation: to do
   * Schrodinger equation: to do
 * Satalite speed
+* Rocket science
 * Orbital sling shot
 * Parallax
 * [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-) (in the appendix)
