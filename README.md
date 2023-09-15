@@ -32,11 +32,11 @@ Materials
 * Quantum computing
   * Wave equation: to do
   * Schrodinger equation: to do
-* Satalite speed
 * Rocket science
-* Orbital sling shot
-* Parallax
-* [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-) (in the appendix)
+  * Orbital sling shot
+  * Satalite speed
+  * Parallax
+  * [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-) (in the appendix) (Done! 2023 Aug 25)
 * Morphogen gradient
 * Evolution
 
