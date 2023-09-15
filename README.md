@@ -12,6 +12,7 @@ Materials
 * Small satellite 2023
 * 5G 2023
 * Multi-omics 2024
+* Finite Element Method
 * CAD/CAM ?
 
 ---
