@@ -118,6 +118,21 @@ Recall the boundary conditions
 * $k \frac{dT}{dx}|^{x=L} = -q_L$ (known)
 * $T_1 = T_0$ (known)
 
+With $T_1$ known, we can form a system of equations to solve for 3 unknown variables, $T_2, T_3, T_4$.
+
+$$\begin{bmatrix}
+-2 \frac{k}{\Delta x} & \frac{k}{\Delta x} & 0 \\
+\frac{k}{\Delta x} & -2 \frac{k}{\Delta x} & \frac{k}{\Delta x} \\
+0 & \frac{k}{\Delta x} &  -\frac{k}{\Delta x} T_4
+\end{bmatrix} \cdot 
+\begin{bmatrix}
+T_2 \\ T_3 \\ T_4
+\end{bmatrix}
+=
+\begin{bmatrix}
+\frac{k}{\Delta x} T_0
+\end{bmatrix}
+$$
 
 
 
