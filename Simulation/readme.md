@@ -49,6 +49,15 @@ where shape functions $N_i$'s are often polynomial, e.g.,
 
 ## Edx: Introduction to Simulation
 
+### 1-D Heat distribution on an isotropic iron bar
+
+* Given $k \frac{d^2 T}{d x^2} + Q = 0$ for $0 \leq x \leq L$, solve for $T(x)$.
+* Boundary conditions
+  * $T(0) = T_0$
+  * $q(L) = q_L = - k \frac{dT}{dx}|_{x=L}$ 
+
+
+
 ---
 
 # Computational Fluid Dynamics
