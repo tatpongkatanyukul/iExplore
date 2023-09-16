@@ -98,11 +98,11 @@ and rearrange to
 
 $w_1 \cdot (-\frac{k}{\Delta x} T_1 + \frac{k}{\Delta x} T_2 + \frac{Q \Delta x}{2} - k \frac{dT}{dx}|^{x=0})$
 
-$+ w_2 \cdot (\frac{k}{\Delta x} T_2 - \frac{k}{\Delta x} T_3 + \frac{k}{\Delta x} T_4 + Q \Delta x)$
+$+ w_2 \cdot (\frac{k}{\Delta x} T_1 - 2 \frac{k}{\Delta x} T_2 + \frac{k}{\Delta x} T_3 + Q \Delta x)$
 
-$+ w_3 \cdot (Q \Delta x)$
+$+ w_3 \cdot (\frac{k}{\Delta x} T_2 - 2 \frac{k}{\Delta x} T_3 + \frac{k}{\Delta x} T_4 + Q \Delta x)$
 
-$+ w_4 \cdot (\frac{Q \Delta x}{2} + k \frac{dT}{dx}|^{x=L}) = 0$
+$+ w_4 \cdot (\frac{k}{\Delta x} T_3 - \frac{k}{\Delta x} T_4 + \frac{Q \Delta x}{2} + k \frac{dT}{dx}|^{x=L}) = 0$
 
 ---
 
