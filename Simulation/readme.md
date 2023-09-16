@@ -76,8 +76,8 @@ With integration by parts,
 #### Discretize $x \in [0, L]$ into $M$ parts, e.g., 3 parts (4 nodes: 1, 2, 3, 4)
 
 * $w(x) \cdot k \frac{dT}{dx}|_0^L$
-  * $w(x) \cdot k \frac{dT}{dx}|_0^L = w(x) \cdot k \frac{dT}{dx}|^L - w(x) \cdot k \frac{dT}{dx}|^0)$
-  * $w(x) \cdot k \frac{dT}{dx}|_0^L = w_4 \cdot k \frac{dT}{dx}|^L - w_1 \cdot k \frac{dT}{dx}|^0$
+  * $w(x) \cdot k \frac{dT}{dx}|_0^L = w(x) \cdot k \frac{dT}{dx}|_{x=L} - w(x) \cdot k \frac{dT}{dx}|_{x=0})$
+  * $w(x) \cdot k \frac{dT}{dx}|_0^L = w_4 \cdot k \frac{dT}{dx}|_{x=L} - w_1 \cdot k \frac{dT}{dx}|_{x=0}$
 * $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx$
 * $\int_0^L w(x) Q dx = Q \int_0^L w(x) dx$
   * $\int_0^L w(x) dx$ : area under curve and since we choose $w(x)$ to be piecewise linear, the area is a sum of trazoidal areas: $Q \int_0^L w(x) dx = Q \left( \Delta x (w_1 + w_2)/2 + \Delta x (w_2 + w_3)/2  + \Delta x (w_3 + w_4)/2 \right)$
