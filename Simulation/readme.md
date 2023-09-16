@@ -67,9 +67,8 @@ Deriving a weak form
 * Let $w(x)$ be an arbitrary piecewise polynomial function.
 
 With integration by parts,
-\begin{align}
-\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) &= 0
-\end{align}
+* $\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) = 0$
+* $w(x) \cdot k \frac{dT}{dx}|_0^L - \int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx + \int_0^L w(x) Q dx  = 0$
 
 ---
 
