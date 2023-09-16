@@ -85,7 +85,11 @@ With integration by parts,
   * $\int_0^L w(x) dx$ : area under curve and since we choose $w(x)$ to be piecewise linear, the area is a sum of trazoidal areas: $Q \int_0^L w(x) dx \approx Q \left( \Delta x (w_1 + w_2)/2 + \Delta x (w_2 + w_3)/2  + \Delta x (w_3 + w_4)/2 \right)$
   * Hence, $Q \int_0^L w(x) dx \approx Q \Delta x \left(  w_1/2  + w_2 + w_3 + w_4/2 \right)$
 
-My note: I don't really understand how he got from the weak form to the matrix form. Perhaps, an FEA textbook may help.
+Approximate 
+$$w_4 \cdot k \frac{dT}{dx}|^{x=L} - w_1 \cdot k \frac{dT}{dx}|^{x=0} - \frac{k}{\Delta x} \left( (w_2 - w_1)(T_2 - T_1) + (w_3 - w_2)(T_3 - T_2) + (w_4 - w_3)(T_4 - T_3) \right) + Q \Delta x \left(  w_1/2  + w_2 + w_3 + w_4/2 \right) = 0$$
+
+and rearrange to
+$$w_1 () + w_2 () + w_3 () + w_4 () = 0$$
 
 ---
 
