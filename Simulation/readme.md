@@ -60,6 +60,10 @@ where shape functions $N_i$'s are often polynomial, e.g.,
   * $q(L) = q_L = - k \frac{dT}{dx}|_{x=L}$ 
 * $T$ : temperature, $q$ heat flow per unit area, "heat flux"
 
+My note: $q = - k \frac{dT}{dx}$ means: 
+  * along $x$, negative heat flux $q < 0$ takes heat in and temperature rises.
+  * along $x$, positive heat flux $q > 0$ takes heat out and temperature gets lower.
+
 * Direct method: exact solution -> Calculus
 * Galerkin: $[K] \{ T \} = \{ Q \}$
 
