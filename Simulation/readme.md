@@ -17,7 +17,9 @@ E.g.,
 * strong form: differential equation $D(x, t) = 0$.
 * weak form: $\int_\Omega D(x, t) \phi(x) dx = 0$ for any $\phi(x)$.
 
+Strain: $\epsilon = \frac{\Delta L}{L_0}$
 
+Stress: $\sigma = E \cdot \epsilon$
 
 
 
