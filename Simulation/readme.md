@@ -96,13 +96,13 @@ $$w_4 \cdot k \frac{dT}{dx}|^{x=L} - w_1 \cdot k \frac{dT}{dx}|^{x=0} - \frac{k}
 
 and rearrange to
 \begin{align}
-w_1 () 
+w_1 & \cdot (\frac{Q \Delta x}{2} - k \frac{dT}{dx}|^{x=0}) 
 \\
-+ w_2 ()
++ w_2 & \cdot (Q \Delta x)
 \\
-+ w_3 ()
++ w_3 & \cdot (Q \Delta x)
 \\
-+ w_4 () = 0
++ w_4 & \cdot (\frac{Q \Delta x}{2} + k \frac{dT}{dx}|^{x=L}) = 0
 \end{align}
 
 ---
