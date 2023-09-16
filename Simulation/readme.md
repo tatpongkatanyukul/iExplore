@@ -62,7 +62,16 @@ where shape functions $N_i$'s are often polynomial, e.g.,
 
 
 Deriving a weak form
-* Given $k \frac{d^2 T}{d x^2} + Q = 0$, $\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) = 0$ also holds for an arbitrary function $w(x)$.
+* If $k \frac{d^2 T}{d x^2} + Q = 0$,
+  * then $\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) = 0$ also holds for an arbitrary function $w(x)$.
+* Let $w(x)$ be an arbitrary piecewise polynomial function.
+
+With integration by parts,
+\begin{align}
+\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) &= 0
+\\
+w(x) \cdot k \frac{dT}{dx}|_0^L - \int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx + \int_0^L w(x) Q dx  &= 0
+\end{align}
 
 ---
 
