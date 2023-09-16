@@ -73,11 +73,13 @@ With integration by parts,
 * $\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) = 0$
 * $w(x) \cdot k \frac{dT}{dx}|_0^L - \int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx + \int_0^L w(x) Q dx  = 0$
 
-#### Discretize $x \in [0, L]$ into $M$ parts, e.g., 4
+#### Discretize $x \in [0, L]$ into $M$ parts, e.g., 3 parts (4 nodes: 1, 2, 3, 4)
 
-* $w(x) \cdot k \frac{dT}{dx}|_0^L \approx$
-* $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx \approx$
-* $\int_0^L w(x) Q dx \approx \sum_i w_i Q \Delta x$
+* $w(x) \cdot k \frac{dT}{dx}|_0^L$
+* $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx$
+* $\int_0^L w(x) Q dx = Q \int_0^L w(x) dx$
+  * $\int_0^L w(x) dx$ : area under curve and since we choose $w(x)$ to be piecewise linear, the area is a sum of trazoidal areas
+  * Hence, $Q \int_0^L w(x) dx = Q \left( \Delta x (w_1 + w_2)/2 + \Delta x (w_2 + w_3)/2  + \Delta x (w_3 + w_4)/2 \right)$
 
 My note: I don't really understand how he got from the weak form to the matrix form. Perhaps, an FEA textbook may help.
 
