@@ -77,11 +77,13 @@ With integration by parts,
 
 * $w(x) \cdot k \frac{dT}{dx}|_0^L$
   * $w(x) \cdot k \frac{dT}{dx}|_0^L = w(x) \cdot k \frac{dT}{dx}|^{x=L} - w(x) \cdot k \frac{dT}{dx}|^{x=0})$
-  * $w(x) \cdot k \frac{dT}{dx}|_0^L = w_4 \cdot k \frac{dT}{dx}|^{x=L} - w_1 \cdot k \frac{dT}{dx}|^{x=0}$
+  * $w(x) \cdot k \frac{dT}{dx}|_0^L \approx w_4 \cdot k \frac{dT}{dx}|^{x=L} - w_1 \cdot k \frac{dT}{dx}|^{x=0}$
 * $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx$
+  * Recall $\frac{dw}{dx} = \frac{w_{i+1} - w_i}{\Delta x}$ and $\frac{dT}{dx} = \frac{T_{i+1} - T_i}{\Delta x}$
+  * Hence, $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx \approx$
 * $\int_0^L w(x) Q dx = Q \int_0^L w(x) dx$
-  * $\int_0^L w(x) dx$ : area under curve and since we choose $w(x)$ to be piecewise linear, the area is a sum of trazoidal areas: $Q \int_0^L w(x) dx = Q \left( \Delta x (w_1 + w_2)/2 + \Delta x (w_2 + w_3)/2  + \Delta x (w_3 + w_4)/2 \right)$
-  * Hence, $Q \int_0^L w(x) dx = Q \Delta x \left(  w_1/2  + w_2 + w_3 + w_4/2 \right)$
+  * $\int_0^L w(x) dx$ : area under curve and since we choose $w(x)$ to be piecewise linear, the area is a sum of trazoidal areas: $Q \int_0^L w(x) dx \approx Q \left( \Delta x (w_1 + w_2)/2 + \Delta x (w_2 + w_3)/2  + \Delta x (w_3 + w_4)/2 \right)$
+  * Hence, $Q \int_0^L w(x) dx \approx Q \Delta x \left(  w_1/2  + w_2 + w_3 + w_4/2 \right)$
 
 My note: I don't really understand how he got from the weak form to the matrix form. Perhaps, an FEA textbook may help.
 
