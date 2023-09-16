@@ -37,13 +37,16 @@ The $[K]$ is usually obtained from a concept of equilibrium.
   * Solve for $c_i$'s from $\int_a^b N_1(x) R(x) dx = 0$, $\int_a^b N_2(x) R(x) dx = 0$, ..., $\int_a^b N_n(x) R(x) dx = 0$.
 
 
-Estimating value of $v(x,y)$ in a mesh with vertices $v_1, v_2, v_3, v_4$ by $v(x,y) = N_1(x,y) v_1 + N_2(x,y) v_2 + N_3(x,y) v_3 + N_4(x,y) v_4$
+
+
+Estimating value of $v(x,y)$ in a mesh face with vertices $v_1, v_2, v_3, v_4$ by $v(x,y) = N_1(x,y) v_1 + N_2(x,y) v_2 + N_3(x,y) v_3 + N_4(x,y) v_4$
 where shape functions $N_i$'s are often polynomial, e.g.,
 * $N_1(x,y) = \frac{1}{4}(1 - r)(1 - s)$
 * $N_2(x,y) = \frac{1}{4}(1 + r)(1 - s)$
 * $N_3(x,y) = \frac{1}{4}(1 + r)(1 + s)$
 * $N_4(x,y) = \frac{1}{4}(1 - r)(1 + s)$
- 
+
+ My note: I don't know why we need this interpolation given that we have solved $y^\ast(x)$.
 
 ---
 
@@ -75,6 +78,8 @@ With integration by parts,
 * $w(x) \cdot k \frac{dT}{dx}|_0^L \approx$
 * $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx \approx$
 * $\int_0^L w(x) Q dx \approx \sum_i w_i Q \Delta x$
+
+My note: I don't really understand how he got from the weak form to the matrix form. Perhaps, an FEA textbook may help.
 
 ---
 
