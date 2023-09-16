@@ -74,7 +74,7 @@ With integration by parts,
 
 * $w(x) \cdot k \frac{dT}{dx}|_0^L \approx$
 * $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx \approx$
-* $\int_0^L w(x) Q dx \approx \sum_{i=1}^4 w_i Q \Delta x$
+* $\int_0^L w(x) Q dx \approx \sum_i w_i Q \Delta x$
 
 ---
 
