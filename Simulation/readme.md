@@ -80,7 +80,7 @@ With integration by parts,
   * $w(x) \cdot k \frac{dT}{dx}|_0^L \approx w_4 \cdot k \frac{dT}{dx}|^{x=L} - w_1 \cdot k \frac{dT}{dx}|^{x=0}$
 * $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx$
   * Recall $\frac{dw}{dx} = \frac{w_{i+1} - w_i}{\Delta x}$ and $\frac{dT}{dx} = \frac{T_{i+1} - T_i}{\Delta x}$
-  * Hence, $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx \approx \frac{k}{\Delta x} \left( (w_2 - w_1)(T_2 - T1) + (w_3 - w_2)(T_3 - T2) + (w_4 - w_3)(T_4 - T_3) \right)$
+  * Hence, $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx \approx \frac{k}{\Delta x} \left( (w_2 - w_1)(T_2 - T_1) + (w_3 - w_2)(T_3 - T_2) + (w_4 - w_3)(T_4 - T_3) \right)$
 * $\int_0^L w(x) Q dx = Q \int_0^L w(x) dx$
   * $\int_0^L w(x) dx$ : area under curve and since we choose $w(x)$ to be piecewise linear, the area is a sum of trazoidal areas: $Q \int_0^L w(x) dx \approx Q \left( \Delta x (w_1 + w_2)/2 + \Delta x (w_2 + w_3)/2  + \Delta x (w_3 + w_4)/2 \right)$
   * Hence, $Q \int_0^L w(x) dx \approx Q \Delta x \left(  w_1/2  + w_2 + w_3 + w_4/2 \right)$
