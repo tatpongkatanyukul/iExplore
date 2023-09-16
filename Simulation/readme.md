@@ -125,6 +125,7 @@ Once we have all $T_1, ..., T_4$ known, we can solve for $q_1 \equiv -k \frac{dT
 We can use $q_1 \cdot A$ where $A$ is the area to double-check the results: $q_1 A + Q = q_L A$.
 
 See [FEA on 1D Heat Distribution](https://colab.research.google.com/drive/1CRvHImVYmCwyAGNmh_sbbuBeQvj2pdGK#scrollTo=IktzuuURopqX)
+
 ---
 
 # Computational Fluid Dynamics
