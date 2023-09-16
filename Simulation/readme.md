@@ -64,6 +64,8 @@ My note: $q = - k \frac{dT}{dx}$ means:
   * along $x$, negative heat flux $q < 0$ takes heat in and temperature rises.
   * along $x$, positive heat flux $q > 0$ takes heat out and temperature gets lower.
 
+
+To solve the problem,
 * Direct method: exact solution -> Calculus
 * Galerkin: $[K] \{ T \} = \{ Q \}$
 
