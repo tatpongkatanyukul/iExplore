@@ -120,17 +120,11 @@ Recall the boundary conditions
 
 With $T_1$ known, we can form a system of equations to solve for 3 unknown variables, $T_2, T_3, T_4$.
 
-$\begin{bmatrix} -2 \frac{k}{\Delta x} & \frac{k}{\Delta x} & 0 \\ \frac{k}{\Delta x} & -2 \frac{k}{\Delta x} & \frac{k}{\Delta x} \\ 0 & \frac{k}{\Delta x} &  -\frac{k}{\Delta x} T_4 \end{bmatrix}$
+Once we have all $T_1, ..., T_4$ known, we can solve for $q_1 \equiv -k \frac{dT}{dx}|^{x=0}$.
 
-$\cdot \begin{bmatrix} T_2 \\ T_3 \\ T_4 \end{bmatrix}$
-$=$
+We can use $q_1 \cdot A$ where $A$ is the area to double-check the results: $q_1 A + Q = q_L A$.
 
-$\begin{bmatrix} \frac{k}{\Delta x} T_0 \end{bmatrix}$
-
-
-
-Denote $k \frac{dT}{dx}|^{x=0} \equiv -q_1$ (unknown).
-
+See [FEA on 1D Heat Distribution](https://colab.research.google.com/drive/1CRvHImVYmCwyAGNmh_sbbuBeQvj2pdGK#scrollTo=IktzuuURopqX)
 ---
 
 # Computational Fluid Dynamics
