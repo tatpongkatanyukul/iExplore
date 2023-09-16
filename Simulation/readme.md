@@ -55,8 +55,14 @@ where shape functions $N_i$'s are often polynomial, e.g.,
 * Boundary conditions
   * $T(0) = T_0$
   * $q(L) = q_L = - k \frac{dT}{dx}|_{x=L}$ 
+* $T$ : temperature, $q$ heat flow per unit area, "heat flux"
+
+* Direct method: exact solution -> Calculus
+* Galerkin: $[K] \{ T \} = \{ Q \}$
 
 
+Deriving a weak form
+* Given $k \frac{d^2 T}{d x^2} + Q = 0$, $\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) = 0$ also holds for an arbitrary function $w(x)$.
 
 ---
 
