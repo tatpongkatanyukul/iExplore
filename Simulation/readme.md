@@ -29,7 +29,7 @@ The $[K]$ is usually obtained from a concept of equilibrium.
 * Variational method: weak form
   * Principle of Minimum Potential Energy: "The displacement configuration that satisfies equilibrium conditions is the one that minimizes the total potential energy." 
 * Galerkin method of weighted residuals: weak form
-  * Assume an approximation solution $y^\ast(x) = \sum_{i=1}^n c_i N_i(x)$
+  * Assume an approximation solution $y^\ast(x) = \sum_i c_i N_i(x)$
     * where $c_i$ : coefficient; $N_i(x)$ : trial function, e.g., polynomial
   * Let $R(x) = D(x|y^\ast(x))$
     * where $R(x)$ : residual, $R(x) = 0$ if $y^\ast(x)$ is the exact solution
