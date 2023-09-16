@@ -61,7 +61,7 @@ where shape functions $N_i$'s are often polynomial, e.g.,
 * Galerkin: $[K] \{ T \} = \{ Q \}$
 
 
-Deriving a weak form
+#### Derive a weak form
 * If $k \frac{d^2 T}{d x^2} + Q = 0$,
   * then $\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) = 0$ also holds for an arbitrary function $w(x)$.
 * Let $w(x)$ be an arbitrary piecewise polynomial function.
@@ -69,6 +69,12 @@ Deriving a weak form
 With integration by parts,
 * $\int_0^L w(x) \cdot \left(k \frac{d^2 T}{d x^2} + Q\right) = 0$
 * $w(x) \cdot k \frac{dT}{dx}|_0^L - \int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx + \int_0^L w(x) Q dx  = 0$
+
+#### Discretize $x \in [0, L]$ into $M$ parts, e.g., 4
+
+* $w(x) \cdot k \frac{dT}{dx}|_0^L$ $\approx$
+* $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx$ $\approx$
+* $\int_0^L w(x) Q dx$ $\approx \sum_{i=1}^4 w_i Q \Delta x$
 
 ---
 
