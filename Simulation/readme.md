@@ -4,7 +4,7 @@
 
 # Finite Element Method
 
-## Julian Roth's Finite Element Method is also better at explaining the rigorous math, but it's too theoretical than I want.
+## Julian Roth's Finite Element Method
 
 Solve the original problem (~ partial differential equations) by
 1. Turning it to weak form
@@ -21,7 +21,7 @@ Strain: $\epsilon = \frac{\Delta L}{L_0}$
 
 Stress: $\sigma = E \cdot \epsilon$
 
-## Efficient Engineer's Understanding the Finite Element Method has done a much better job
+## Efficient Engineer's Understanding the Finite Element Method
 
 Turning a problem into linear algebra $\{F\} = [K] \{U\}$ where $\{U\}$ is the input and $\{F\}$ is the output.
 The $[K]$ is usually obtained from a concept of equilibrium.
