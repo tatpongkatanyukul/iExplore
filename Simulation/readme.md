@@ -72,9 +72,9 @@ With integration by parts,
 
 #### Discretize $x \in [0, L]$ into $M$ parts, e.g., 4
 
-* $w(x) \cdot k \frac{dT}{dx}|_0^L$ $\approx$
-* $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx$ $\approx$
-* $\int_0^L w(x) Q dx$ $\approx \sum_{i=1}^4 w_i Q \Delta x$
+* $w(x) \cdot k \frac{dT}{dx}|_0^L \approx$
+* $\int_0^L \frac{dw}{dx} k \frac{dT}{dx} dx \approx$
+* $\int_0^L w(x) Q dx \approx \sum_{i=1}^4 w_i Q \Delta x$
 
 ---
 
