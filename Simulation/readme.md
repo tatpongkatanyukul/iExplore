@@ -104,6 +104,18 @@ $+ w_3 \cdot (\frac{k}{\Delta x} T_2 - 2 \frac{k}{\Delta x} T_3 + \frac{k}{\Delt
 
 $+ w_4 \cdot (\frac{k}{\Delta x} T_3 - \frac{k}{\Delta x} T_4 + \frac{Q \Delta x}{2} + k \frac{dT}{dx}|^{x=L}) = 0$
 
+Since this has to work for any arbitrary $w(x)$ (i.e., $w_1, ..., w_n$), therefore
+
+$-\frac{k}{\Delta x} T_1 + \frac{k}{\Delta x} T_2 + \frac{Q \Delta x}{2} - k \frac{dT}{dx}|^{x=0} = 0$
+
+$\frac{k}{\Delta x} T_1 - 2 \frac{k}{\Delta x} T_2 + \frac{k}{\Delta x} T_3 + Q \Delta x = 0$
+
+$\frac{k}{\Delta x} T_2 - 2 \frac{k}{\Delta x} T_3 + \frac{k}{\Delta x} T_4 + Q \Delta x = 0$
+
+$\frac{k}{\Delta x} T_3 - \frac{k}{\Delta x} T_4 + \frac{Q \Delta x}{2} + k \frac{dT}{dx}|^{x=L} = 0$
+
+Recall $k \frac{dT}{dx}|^{x=L} = -q_L$ and denote $k \frac{dT}{dx}|^{x=0} \equiv -q_1$.
+
 ---
 
 # Computational Fluid Dynamics
