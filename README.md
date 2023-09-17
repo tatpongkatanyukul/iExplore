@@ -37,6 +37,7 @@ Materials
   * Orbital sling shot
   * Satalite speed
   * Parallax
+  * [Rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
   * [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-) (in the appendix) (Done! 2023 Aug 25)
 * [Engineering simulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/Simulation/readme.md)
 * Morphogen gradient
