@@ -30,6 +30,7 @@ Materials
   * [Transmission line and signal reflection](https://colab.research.google.com/drive/1tT_3uWuWtqXi6LPXKdC4R8GqgBG4vCJD#scrollTo=KGAONnDN1niH) (Done! 2023 Sep 8)
     * It also provides animation to show forward/backward signal propagation 
   * Antenna: to do: watch [Puyan Mojabi's Undergrad Antennas Course](https://www.youtube.com/watch?v=GfgaJcir2XE&t=930s)
+* [Optics](https://en.wikipedia.org/wiki/Optics)
 * Quantum computing
   * Wave equation: to do
   * Schrodinger equation: to do
