@@ -26,7 +26,7 @@ Materials
 * Boat engine
 * [Heat equation](https://colab.research.google.com/drive/1phUhfuoooLTa8zM4aJV5uHZHTWk2TWAQ) (Done! 2023 Sep 15)
 * Maxwell equation and inductive coil
-  * [Inductor](https://drive.google.com/file/d/1KE0FrbLTm6p5TJruwK43EwtnUEQ0fIbX/view?usp=share_link) (Done! 2023 May 23)
+  * [Inductor](https://github.com/tatpongkatanyukul/iExplore/blob/main/Antenna/VisualizeBSolenoidV5.ipynb) (Done! 2023 May 23)
   * [Transmission line and signal reflection](https://colab.research.google.com/drive/1tT_3uWuWtqXi6LPXKdC4R8GqgBG4vCJD#scrollTo=KGAONnDN1niH) (Done! 2023 Sep 8)
     * It also provides animation to show forward/backward signal propagation 
   * Antenna: to do: watch [Puyan Mojabi's Undergrad Antennas Course](https://www.youtube.com/watch?v=GfgaJcir2XE&t=930s)
