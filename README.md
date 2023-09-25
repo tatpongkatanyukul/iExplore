@@ -39,7 +39,7 @@ Materials
   * Satalite speed
   * Parallax
   * [Rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
-  * [Triangulation](https://colab.research.google.com/drive/1CVxuKCuzqaiVYkAcUkeghuxdpH4PZATs#scrollTo=1JyZjradX8d-) (in the appendix) (Done! 2023 Aug 25)
+  * [Triangulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/TriangulationV1.ipynb) (Done! 2023 Aug 25)
 * [Engineering simulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/Simulation/readme.md)
   * [FEA basics](https://colab.research.google.com/drive/1Bb4Y4zgirgZ8AiaXPKzHrfXVaB01hYGP#scrollTo=cWnJmrWUc8Vb) 
 * Morphogen gradient
