@@ -41,7 +41,7 @@ Materials
   * [Rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
   * [Triangulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/TriangulationV1.ipynb) (Done! 2023 Aug 25)
 * [Engineering simulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/Simulation/readme.md)
-  * [FEA basics](https://colab.research.google.com/drive/1Bb4Y4zgirgZ8AiaXPKzHrfXVaB01hYGP#scrollTo=cWnJmrWUc8Vb) 
+  * [FEA basics](https://colab.research.google.com/drive/1klkKFTeV9H5o7cUyzjL7t0_KNdtVNiU_#scrollTo=bK-6wxm_L38U) (FEA Part is good, but need to finish up on the exact solution!) 
 * Morphogen gradient
 * Evolution
 
