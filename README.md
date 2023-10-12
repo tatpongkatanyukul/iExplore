@@ -41,13 +41,13 @@ Materials
   * [Rocket equation](https://en.wikipedia.org/wiki/Tsiolkovsky_rocket_equation)
   * [Triangulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/TriangulationV1.ipynb) (Done! 2023 Aug 25)
 * [Engineering simulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/Simulation/readme.md)
-  * [FEA basics](https://colab.research.google.com/drive/1klkKFTeV9H5o7cUyzjL7t0_KNdtVNiU_#scrollTo=bK-6wxm_L38U) (FEA Part is good, but need to finish up on the exact solution!) 
+  * [FEA basics](https://github.com/tatpongkatanyukul/iExplore/blob/main/Simulation/FEA_1DHeatV3b.ipynb) (Done! 2023 Oct 12) 
 * Morphogen gradient
 * Evolution
 * Miscellaneous
   * [Map calibration](https://colab.research.google.com/drive/17ij4qIw7TQ1AOpA3jWJjy7eTn0LK8YDw#scrollTo=Rpdc-hJX1OXG)
-  * [2nd Order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/SecondOrderODELesson1v2.ipynb)
-    * [LCA version: 2nd-order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/LCA_SecondOrderODEv1.ipynb) 
+  * [2nd Order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/SecondOrderODELesson1v2.ipynb) (Done! 2023 Oct 12)
+    * [LCA version: 2nd-order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/LCA_SecondOrderODEv1.ipynb) (Done! 2023 Oct 12)
   * [ODE]
   * [PDE]
 
