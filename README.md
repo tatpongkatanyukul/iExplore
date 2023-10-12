@@ -46,8 +46,7 @@ Materials
 * Evolution
 * Miscellaneous
   * [Map calibration](https://colab.research.google.com/drive/17ij4qIw7TQ1AOpA3jWJjy7eTn0LK8YDw#scrollTo=Rpdc-hJX1OXG)
-  * [2nd Order ODE](https://colab.research.google.com/drive/16Twz-VCIw7M_fgzC5uYo_AhJbSxx-eve#scrollTo=DtfbEqbhJMcl)
-    * ([done](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/SecondOrderODELesson1v2.ipynb))
+  * [2nd Order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/SecondOrderODELesson1v2.ipynb)
   * [ODE]
   * [PDE]
 
