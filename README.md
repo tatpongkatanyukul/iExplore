@@ -47,6 +47,7 @@ Materials
 * Miscellaneous
   * [Map calibration](https://colab.research.google.com/drive/17ij4qIw7TQ1AOpA3jWJjy7eTn0LK8YDw#scrollTo=Rpdc-hJX1OXG)
   * [2nd Order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/SecondOrderODELesson1v2.ipynb)
+    * [LCA version: 2nd-order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/LCA_SecondOrderODEv1.ipynb) 
   * [ODE]
   * [PDE]
 
