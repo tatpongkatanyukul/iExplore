@@ -42,7 +42,7 @@ Materials
   * [Triangulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/TriangulationV1.ipynb) (Done! 2023 Aug 25)
 * [Engineering simulation](https://github.com/tatpongkatanyukul/iExplore/blob/main/Simulation/readme.md)
   * [FEA basics](https://github.com/tatpongkatanyukul/iExplore/blob/main/Simulation/FEA_1DHeatV3b.ipynb) (Done! 2023 Oct 12) 
-* Morphogen gradient
+* [Morphogen gradient formation](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/MorphogenV5.ipynb) (Done! 2023 Oct 18)
 * Evolution
 * Miscellaneous
   * [Map calibration](https://colab.research.google.com/drive/17ij4qIw7TQ1AOpA3jWJjy7eTn0LK8YDw#scrollTo=Rpdc-hJX1OXG) (Done! 2023 Sep 29)
