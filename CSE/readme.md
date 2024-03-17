@@ -10,7 +10,7 @@
 ---Herman J. C. Berendsen, Simulating the Physical World, Cambridge University Press 2007.
 
 ## Optimization example
-  * Berendsen (2007), pp. 6: Morse function, approximate potential function $V(r) = D (1 - e^{-a (r - b)})^2$
+  * Berendsen (2007), pp. 6: Morse function, approximate potential function $V(r) = D (1 - e^{-a (r - b)})^2$.
 
 ---
 # Done
