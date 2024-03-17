@@ -9,6 +9,9 @@
 > This book is meant to provide the ncessary scientific background and to promote awareness for the limitations and inaccuracies of simulating the "real world".
 ---Herman J. C. Berendsen, Simulating the Physical World, Cambridge University Press 2007.
 
+* Interpolation
+> In many occasions we may not even have an analytical form for the potential, but know the potential at a number of discrete points, e.g., from quantum-chemical calculations. In that cse the best way to proceed is to construct the potential function from _cubic spline interpolation_ of the computed points.
+
 ## Optimization example
   * Berendsen (2007), pp. 6: Morse function, approximate potential function $V(r) = D (1 - e^{-a (r - b)})^2$.
 
