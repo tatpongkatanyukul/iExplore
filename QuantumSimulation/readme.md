@@ -40,14 +40,12 @@ Herman J. C. Berendsen, Simulating the Physical World, Cambridge University Pres
 * Level 9: Reactive fluid dynamics
   * System: non-equilibrium macroscopic mixture of different species (as the atmosphere for weather forecasting)
   * Rules: energy, momemtum and mass conservation; reactive fluxes
-  * Approximation:
-
+  * Approximation: Reduced to one species with Newtonian viscosity
 * Level 10: Fluid dynamics
-  * System:
-  * Rules:
-  * Approximation:
-
+  * System: non-equilibrium macroscopic fluids; gases and liquids
+  * Rules: energy, momentu and mass conservation; Navier-Stokes eqaution
+  * Approximation: Low fluid velocities (low Reynolds number)
+    * No go: turbulance
 * Level 11: Steady-flow fluid dynamics
-  * System:
-  * Rules:
-  * Approximation:
+  * System: non-equilibrium fluids with laminar flow
+  * Rules: simplified Navier-Stokes equation
