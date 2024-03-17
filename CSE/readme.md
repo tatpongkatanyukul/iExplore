@@ -14,6 +14,7 @@
 
 ## Optimization example
   * Berendsen (2007), pp. 6: Morse function, approximate potential function $V(r) = D (1 - e^{-a (r - b)})^2$.
+    * $D$ is the dissociation energy (569.87 kJ/mol); $a$ is a constant related to the steepness of the potential (Example uses $a = 2/b$); $b$ equilibrium bond length (0.09169 nm); $k$ force constant ($5.85 \times 10^5$ kJ mol<sup>-1</sup> nm<sup>-2</sup>. 
 
 ---
 # Done
