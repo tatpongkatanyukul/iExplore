@@ -7,16 +7,16 @@ Herman J. C. Berendsen, Simulating the Physical World, Cambridge University Pres
 * Level 1: Relativistic quantum dynamics
   * System: atomic nuclei (mass, charge, spin), electrons (mass, charge, spin), photons (frequency)
   * Rules: relativistic time-dependent quantum mechanics; Dirac's equation; (quantum) electrodynamics
-* Approximation: Particle velocities small compared to velocity of light
-  * No go: electrons close to heavy nuclei; hot plasmas 
+  * Approximation: Particle velocities small compared to velocity of light
+    * No go: electrons close to heavy nuclei; hot plasmas 
 * Level 2: Quantum dynamics
   * System: atomic nuclei, electrons, photons
   * Rules: non-relativistic time-dependent Schroedinger equation; time-independent Schrodinger equation; Maxwell equation 
-* Approximation: Born-Oppenheimer approx: electrons move much faster than nuclei
+  * Approximation: Born-Oppenheimer approx: electrons move much faster than nuclei
 * Level 3: Atomic quantum dynamics
   * System: atoms, ions, molecules, (photons)
   * Rules: atoms move in effective potential due to electrons; atoms may behave according to time-dependent Schrodinger equation
-* Approximation: Atomic motion is classical
+  * Approximation: Atomic motion is classical
 * Level 4: Molecular dynamics
   * System: condensed matter: (macro)molecules, fluids, solutions, liquid crystals, fast reactions
   * Rules: classical mechanics (Newton's equations); statistical mechanics; molecular dynamics
