@@ -1,9 +1,8 @@
 # iExplore
 Intellectual Exploration Course
 
-[Computational Science and Engineering](https://github.com/tatpongkatanyukul/iExplore/tree/main/CSE)
+* [Computational Science and Engineering](https://github.com/tatpongkatanyukul/iExplore/tree/main/CSE)
 
-Related course:
 * [EN813711](https://github.com/tatpongkatanyukul/iExplore/blob/main/EN813711Optimization/readme.md)
 
 ---
@@ -13,9 +12,6 @@ Materials
 * Solar roof and floating 2022
 * Small satellite 2023
 * 5G 2023
-* Multi-omics 2024
-* Finite Element Method
-* CAD/CAM ?
 
 ---
 
