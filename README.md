@@ -1,6 +1,8 @@
 # iExplore
 Intellectual Exploration Course
 
+[Computational Science and Engineering](https://github.com/tatpongkatanyukul/iExplore/tree/main/CSE)
+
 Related course:
 * [EN813711](https://github.com/tatpongkatanyukul/iExplore/blob/main/EN813711Optimization/readme.md)
 
