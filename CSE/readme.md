@@ -14,7 +14,7 @@
   * Dynamic vs Static
     * [Dynamic](https://github.com/tatpongkatanyukul/iExplore/tree/main/QuantumSimulation)
     * Static
-      > Not all questions we endeavor to answer involve dynamic aspects, such as the prediction of static equilibrium properties (e.g., the binding constant of a ligand to a macromolecule or a solid surface). For such static questions the answers may be found by sampling methods, such as Monte Carlo simulations, that generate a representative statistical ensemble of system configurations rather than a trajectory in time.
+      > "Not all questions we endeavor to answer involve dynamic aspects, such as the prediction of static equilibrium properties (e.g., the binding constant of a ligand to a macromolecule or a solid surface). For such static questions the answers may be found by sampling methods, such as Monte Carlo simulations, that generate a representative statistical ensemble of system configurations rather than a trajectory in time." Berendsen(2007)
 
 
 * Interpolation
