@@ -10,6 +10,13 @@
 
 ---Herman J. C. Berendsen, Simulating the Physical World, Cambridge University Press 2007.
 
+
+  * Dynamic vs Static
+    * [Dynamic](https://github.com/tatpongkatanyukul/iExplore/tree/main/QuantumSimulation)
+    * Static
+      > Not all questions we endeavor to answer involve dynamic aspects, such as the prediction of static equilibrium properties (e.g., the binding constant of a ligand to a macromolecule or a solid surface). For such static questions the answers may be found by sampling methods, such as Monte Carlo simulations, that generate a representative statistical ensemble of system configurations rather than a trajectory in time.
+
+
 * Interpolation
 > In many occasions we may not even have an analytical form for the potential, but know the potential at a number of discrete points, e.g., from quantum-chemical calculations. In that cse the best way to proceed is to construct the potential function from _cubic spline interpolation_ of the computed points.
 
