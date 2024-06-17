@@ -72,4 +72,12 @@ we can show (see Chapter 12) that
 
 $$\sigma_x \sigma_k \geq \frac{1}{2}$$ 
 
-which shows that two conjugated variables as $x$ and $k$
+which shows that two conjugated variables as $x$ and $k$ ([Me: position and direction]) cannot be simultaneously sharp. 
+This is Heisenberg's _uncertainty relation_, which also applies to $t$ and $\omega$.
+
+As shown in Chapter 12, averages over $\mathbf{k}$ and powers of $k$ can be rewritten in terms of the spatial wave function $\Psi$:
+
+\begin{align}
+\langle \mathbf{k} \rangle (t) &= \\
+\langle k^2 \rangle (t) &= 
+\end{align}
