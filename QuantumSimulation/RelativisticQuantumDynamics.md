@@ -94,3 +94,9 @@ $$ \hat{k}^2 = - \nabla^2$$
 Similarly, the expectation value of the angular frequency $\omega$ is found from equation by using the operator
 
 $$\hat{\omega} = i \frac{\partial}{\partial t}$$
+
+The identifications $\mathbf{p} = \bar{h} \mathbf{k}$ and $E = \bar{h} \omega$ allow the following operator definitions:
+
+$$\hat{\mathbf{p}} = -i \bar{h} \nabla$$
+
+$$\hat{p}^2$$
