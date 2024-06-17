@@ -102,3 +102,5 @@ $$\hat{\mathbf{p}} = -i \bar{h} \nabla$$
 $$\hat{p}^2 = - \bar{h}^2 \nabla ^ 2 $$
 
 $$\hat{E} = i \bar{h} \frac{\partial}{\partial t}$$
+
+From these relations and expression of the energy as a function of momenta and positions, the equations of motion for the wave function follow.
