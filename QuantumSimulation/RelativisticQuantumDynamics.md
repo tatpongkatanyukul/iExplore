@@ -84,3 +84,9 @@ $$\langle k^2 \rangle (t) = \int d \mathbf{r} \Psi ^ \ast (- \nabla ^ 2) \Psi (\
 Thus, the expectation of some observable $A$, being either a function of $\mathbf{r}$ only, or being proportional to $\mathbf{k}$ or to $k^2$, can be obtained from
 
 $$\langle A \rangle (t) = \int d \mathbf{r} \Psi^\ast (\mathbf{r}, t) \hat{A} \Psi (\mathbf{r}, t)$$
+
+where $\hat{A}$ is an _operator_ acting on $\Psi$ , and
+
+$$ \hat{\mathbf{k}} = -i \nabla $$
+
+$$ \hat{k}^2 = - \nabla^2$$
