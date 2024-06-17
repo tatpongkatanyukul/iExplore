@@ -149,6 +149,9 @@ $$E = \bar{h} \omega = \frac{(\bar{h} k)^2}{2 m} = \frac{p^2}{2 m}$$
 If $\omega$ had been just proportional to $k$ (and not to $k^2$) then 
 $\Psi (x,t) = \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^\infty dk g(k,0) \exp [i k x - i \omega (k) t]$ would represent a wave packet traveling at constant velocity without any change in the form of the packet.
 But because the $k^2$-dependence the wave packet slowly broaden as it proceeds in time.
+
+## Narrow distribution
+
 Let us assume that $g(k,0)$ is a narrow distribution around a constant $k_0$, and write
 
 $$k^2 = k_0^2 + 2 k_0 \Delta k + (\Delta k)^2$$
