@@ -64,6 +64,6 @@ $$\langle f(\mathbf{r}) \rangle (t) = \int d \mathbf{r} \Psi^\ast \Psi (\mathbf{
 
 If we apply these equations to define the expectation values of the _variances_ of one coordinate $x$ and its conjugate $k = k_x$:
 
-$$\sigma_x^2 = \langle ((x - \langle x \rangle)^2 \rangle$$
+$$\sigma_x^2 = \langle (x - \langle x \rangle)^2 \rangle$$
 
-$$\sigma_k^2 = \langle ((k - \langle k \rangle)^2 \rangle$$
+$$\sigma_k^2 = \langle (k - \langle k \rangle)^2 \rangle$$
