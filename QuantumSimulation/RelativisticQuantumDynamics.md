@@ -27,3 +27,9 @@
 Let us further define a _wave function_ $\psi(\mathbf{r}, t)$ that describes the wave, A homogeneous plane wave, propagating in the direction of $\mathbf{k}$ with a phase velocity $\omega/k$ is described by
 
 $$\psi(\mathbf{r}, t) = c \exp[i (\mathbf{k} \cdot \mathbf{r} - \omega t)]$$
+
+where $c$ is a complex constant, the absolute value of which is the amplitude of the wave, while its argument defines the phase of the wave.
+
+In general, a particle may be described by a superposition of many (a continuum of) waves of different wave vector and frequency:
+
+$$\psi(\mathbf{r}, t) = \int d \mathbf{k} \int d \omega G(\mathbf{k}, \omega) \exp[i (\mathbf{k} \cdot \mathbf{r} - \omega t)]$$
