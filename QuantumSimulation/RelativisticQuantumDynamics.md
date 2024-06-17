@@ -136,3 +136,8 @@ $$\frac{\partial \Psi}{\partial t} = \frac{i \bar{h}}{2 m} \frac{\partial^2 \Psi
 This is in fact the time-dependent Schro\:dinger equation.
 This equation looks much like Fick's diffusion equation, with the difference that the diffusion constant is now imaginary (or, equivalently, that the diffusion takes place in imaginary time).
 
+If we choose an initial wave function $\Psi(x,0)$, with Fourier transform $g(k,0)$, then the solution of $\frac{\partial \Psi}{\partial t} = \frac{i \bar{h}}{2 m} \frac{\partial^2 \Psi}{\partial x^2}$ is simply
+
+$$\Psi (x,t) = \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^\infty dk g(k,0) \exp [i k x - i \omega (k) t]$$
+
+$$\omega(k) = \frac{\bar{h} k^2}{2 m}$$
