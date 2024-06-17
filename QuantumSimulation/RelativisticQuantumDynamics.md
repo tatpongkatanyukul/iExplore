@@ -174,4 +174,6 @@ However, the packet changes shape with time. In fact, the package will always br
 Let us take a Gaussian packet with initial variance of $\sigma_0^2$ and with velocity $v$ (i.e., $\langle k \rangle = k_0$) as an example.
 Its initial description (disregarding normalizing factors) is
 
-$$\Psi(x, 0) \propto $$
+$$\Psi(x, 0) \propto \exp \left[ - \frac{x^2}{4 \sigma_0^2} + i k_0 x \right]$$
+
+$$g(k,0) \propto \exp [ - \sigma_0^2 (\Delta k)^2]$$
