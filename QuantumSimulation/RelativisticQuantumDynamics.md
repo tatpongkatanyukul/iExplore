@@ -141,3 +141,7 @@ If we choose an initial wave function $\Psi(x,0)$, with Fourier transform $g(k,0
 $$\Psi (x,t) = \frac{1}{\sqrt{2 \pi}} \int_{-\infty}^\infty dk g(k,0) \exp [i k x - i \omega (k) t]$$
 
 $$\omega(k) = \frac{\bar{h} k^2}{2 m}$$
+
+The angular frequency corresponds to the energy:
+
+$$E = \bar{h} \omega = \frac{(\bar{h} k)^2}{2 m} = \frac{p^2}{2 m}$$
