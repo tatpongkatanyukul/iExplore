@@ -63,3 +63,7 @@ The _expectation value_, indicated by triangular brackets, of an observale $f(\m
 $$\langle f(\mathbf{r}) \rangle (t) = \int d \mathbf{r} \Psi^\ast \Psi (\mathbf{r}, t) f(\mathbf{r})$$
 
 If we apply these equations to define the expectation values of the _variances_ of one coordinate $x$ and its conjugate $k = k_x$:
+
+$$\sigma_x^2 = \langle ((x - \langle x \rangle)^2 \rangle$$
+
+$$\sigma_k^2 = \langle ((k - \langle k \rangle)^2 \rangle$$
