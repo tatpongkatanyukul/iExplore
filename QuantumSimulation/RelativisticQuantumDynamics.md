@@ -165,6 +165,6 @@ $$\Psi (x,t) = \frac{1}{\sqrt{2 \pi}} \exp [ i k_0 (x - \frac{1}{2} v t)] $$
 
 [Me: from $\omega = \frac{\bar{h} k^2}{2 m} = \frac{p k}{2 m} = \frac{1}{2} v k$.]
 
-$$= \int_{-\infty}^\infty d \Delta k g(\Delta k, t) \exp [i \Delta k (x - v t)]$$
+$$\Psi (x,t) = \int_{-\infty}^\infty d \Delta k g(\Delta k, t) \exp [i \Delta k (x - v t)]$$
 
 $$g(k,t) = g(k,0) \exp [-i \frac{\bar{h} (\Delta k)^2 t}{2 m}]$$
