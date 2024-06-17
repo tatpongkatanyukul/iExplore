@@ -184,3 +184,11 @@ $$g(k,0) \propto \exp [ - \sigma_0^2 (\Delta k)^2]$$
 The wave function $\Psi(x' = x - v t, t)$ is, apart from the phase factor, equal to the inverse Fourier transform in $\Delta k$ of $g(k,t)$ of $g(k,t) = g(k,0) \exp [-i \frac{\bar{h} (\Delta k)^2 t}{2 m}]$:
 
 $$g(k, t) \propto \exp \left[ - \left( \sigma_0^2 + i \frac{\bar{h} t}{2 m} \right) (\Delta k)^2 \right]$$
+
+which works out to
+
+$$\Psi(x, t) \propto \exp \left[ - \frac{x'^2}{4 (\sigma_0^2 + i \bar{h} t /2m)} \right]$$
+
+By evaluating $\Psi^\ast \Psi$, we see that a Gaussian density is obtained with a variance $\sigma(t)$ that changes in time according to
+
+$$\sigma^2(t) = \sigma_0^2 \left( 1 + \frac{\bar{h}^2 t^2}{4 m^2 \sigma_0^4} \right)$$
