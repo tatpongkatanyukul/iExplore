@@ -80,3 +80,7 @@ As shown in Chapter 12, averages over $\mathbf{k}$ [Me: _wave vector_ in the dir
 $$\langle \mathbf{k} \rangle (t) = \int d \mathbf{r} \Psi ^ \ast (- i \nabla) \Psi (\mathbf{r}, t)$$
 
 $$\langle k^2 \rangle (t) = \int d \mathbf{r} \Psi ^ \ast (- \nabla ^ 2) \Psi (\mathbf{r}, t)$$
+
+Thus, the expectation of some observable $A$, being either a function of $\mathbf{r}$ only, or being proportional to $\mathbf{k}$ or to $k^2$, can be obtained from
+
+$$\langle A \rangle (t) = \int d \mathbf{r} \Psi^\ast (\mathbf{r}, t) \hat{A} \Psi (\mathbf{r}, t)$$
