@@ -189,6 +189,9 @@ which works out to
 
 $$\Psi(x, t) \propto \exp \left[ - \frac{x'^2}{4 (\sigma_0^2 + i \bar{h} t /2m)} \right]$$
 
+The narrower the initial package, the faster it will spread.
+
 By evaluating $\Psi^\ast \Psi$, we see that a Gaussian density is obtained with a variance $\sigma(t)$ that changes in time according to
 
 $$\sigma^2(t) = \sigma_0^2 \left( 1 + \frac{\bar{h}^2 t^2}{4 m^2 \sigma_0^4} \right)$$
+
