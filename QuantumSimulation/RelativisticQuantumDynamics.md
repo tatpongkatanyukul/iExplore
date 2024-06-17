@@ -41,3 +41,5 @@ Here, we recognize that $\psi(\mathbf{r}, t)$ and $G(\mathbf{k},\omega)$ are eac
 ## Time-dependent wave function
 
 Of course, the transform can also be limited to the spatial variable only, yielding a time-dependent distribution in $\mathbf{k}$-space (we introduce a factor of $(2 \pi)^{-3/2}$ for symmetry reasons):
+
+$$\psi(\mathbf{r}, t) = (2 \pi)^{-3/2} \int d \mathbf{k} g (\mathbf{k}, t) \exp [ i (\mathbf{k} \cdot \mathbf{r})] $$
