@@ -57,3 +57,7 @@ $$\int d \mathbf{r} \Psi^\ast \Psi(\mathbf{r}, t) = 1$$
 where the integration is over all space. Likewise $g^\ast g$ is the probability density in $\mathbf{k}$-space; the normalization of $g^\ast g$ is automatically satisfied:
 
 $$\int d \mathbf{k} g^\ast g(\mathbf{k}, t) = 1$$
+
+The _expectation value_, indicated by triangular brackets, of an observale $f(\mathbf{r})$, which is a function of space only, then is
+
+$$\langle f(\mathbf{r}) \rangle (t) = \int d \mathbf{r} \Psi^\ast \Psi (\mathbf{r}, t) f(\mathbf{r})$$
