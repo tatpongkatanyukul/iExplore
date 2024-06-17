@@ -15,3 +15,5 @@
   If we define $\mathbf{k}$ as the _wave vector_ in the direction of the velocity of the particle and with absolute value $k = 2 \pi / \lambda$, then
 
   $$\mathbf{p} = \bar{h} \mathbf{k}$$
+
+(with $\bar{h} = h/2 \pi$) is a fundamental relation between the momentum of a particle and its wave vector.
