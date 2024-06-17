@@ -169,3 +169,9 @@ $$g(k,t) = g(k,0) \exp [-i \frac{\bar{h} (\Delta k)^2 t}{2 m}]$$
 
 The factor in front of the integral is a time-dependent phase factor thtat is irrelevant for the shape of the density distribution since it cancels in $\Psi^\ast \Psi$.
 The packet shape (in space) depends on $x' = x = v t$ and thus the packet travels with the _group velocity_ $v  = d \omega / d k$.
+However, the packet changes shape with time. In fact, the package will always broaden unless it represents a stationary state (as a standing wave), but the latter requires an external confining potential.
+
+Let us take a Gaussian packet with initial variance of $\sigma_0^2$ and with velocity $v$ (i.e., $\langle k \rangle = k_0$) as an example.
+Its initial description (disregarding normalizing factors) is
+
+$$\Psi(x, 0) \propto $$
