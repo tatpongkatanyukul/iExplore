@@ -90,3 +90,7 @@ where $\hat{A}$ is an _operator_ acting on $\Psi$ , and
 $$ \hat{\mathbf{k}} = -i \nabla $$
 
 $$ \hat{k}^2 = - \nabla^2$$
+
+Similarly, the expectation value of the angular frequency $\omega$ is found from equation by using the operator
+
+$$\hat{\omega} = i \frac{\partial}{\partial t}$$
