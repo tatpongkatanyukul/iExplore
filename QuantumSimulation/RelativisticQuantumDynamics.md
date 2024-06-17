@@ -10,6 +10,8 @@
 
 ---
 
+# The wave character of particles
+
 * Particles (such as electrons in beams) show diffraction behavior as if they are waves.  [[Me: double-slit experiment?]](https://en.wikipedia.org/wiki/Double-slit_experiment) The wavelength $\lambda$ appears to be related to the momentum $p = m v$ of the particle by $\lambda = h/p$, where $h$ is Planck's constant.
 
   If we define $\mathbf{k}$ as the _wave vector_ in the direction of the velocity of the particle and with absolute value $k = 2 \pi / \lambda$, then
@@ -109,3 +111,21 @@ From these relations and expression of the energy as a function of momenta and p
 > * $\langle \mathbf{p} \rangle = \int d \mathbf{r} \Psi^\ast (\mathbf{r}, t) (- i \bar{h} \nabla) \Psi (\mathbf{r}, t)$
 > * $\langle p^2 \rangle = \int d \mathbf{r} \Psi^\ast (\mathbf{r}, t) (- \bar{h}^2 \nabla^2) \Psi (\mathbf{r}, t)$
 > * $\langle E \rangle = \int d \mathbf{r} \Psi^\ast (\mathbf{r}, t) (i \bar{h} \frac{\partial}{\partial t}) \Psi (\mathbf{r}, t)$
+
+---
+
+# Non-relativistic single free particle
+
+In principle, we need the relativistic relations between energy, momentum, and external fields, but for clarity we shall first look at the simple non-relativistic case of a single particle in one dimension without external interactions.
+This will allow us to look at some basic propagation properties of wave functions.
+
+Using the relation
+
+$$E = \frac{p^2}{2 m}$$
+
+then $\hat{p}^2 = - \bar{h}^2 \nabla ^ 2$
+and $\hat{E} = i \bar{h} \frac{\partial}{\partial t}$
+give the following equations of motion for the wave function:
+
+$$i \bar{h} \frac{\partial \Psi(x,t)}{\partial t} = - \frac{\bar{h}^2}{2 m} \frac{\partial^2 \Psi}{\partial x^2}$$
+
