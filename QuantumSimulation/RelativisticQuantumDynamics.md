@@ -47,3 +47,9 @@ $$\psi(\mathbf{r}, t) = (2 \pi)^{-3/2} \int d \mathbf{k}  g (\mathbf{k}, t) \exp
 The inverse transform is
 
 $$g(\mathbf{k}, t) = (2 \pi)^{-3/2} \int d \mathbf{r}  \psi (\mathbf{r}, t) \exp [ - i (\mathbf{k} \cdot \mathbf{r})] $$
+
+[Me: Recall $\mathbf{r} \cdot \mathbf{k} = 0$ for any $\mathbf{k}$ orthogonal to $\mathbf{r}$.]
+
+The next crucial step is one of interpretation: we interpret $\psi^\ast \psi(\mathbf{r}, t)$ as the _probability density_ that the particle is at $\mathbf{r}$ at time $t$. Therefore we require for a particle with continuous existence the probability density to be normalized at all times:
+
+$$\int d \mathbf{r} \psi^\ast \psi(\mathbf{r}, t) = 1$$
