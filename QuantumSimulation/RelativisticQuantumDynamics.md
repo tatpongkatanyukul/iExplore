@@ -16,4 +16,14 @@
 
   $$\mathbf{p} = \bar{h} \mathbf{k}$$
 
-(with $\bar{h} = h/2 \pi$) is a fundamental relation between the momentum of a particle and its wave vector.
+  (with $\bar{h} = h/2 \pi$) is a fundamental relation between the momentum of a particle and its wave vector.
+
+* Electromagnetic waves (such as monochromatic light) appear to consist of packages of energy of magnitude $h \nu$, where $\nu$ is the frequency of the (monochromatic) wave, or $\bar{h} \omega$, where $\omega = 2 \pi \nu$ is the angular frequency of the wave.
+
+  Assuming that particles have a wave character, we may generalize this to identify the frequency of the wave with energy of the particle:
+
+  $$E = \bar{h} \omega$$
+
+Let us further define a _wave function_ $\psi(\mathbf{r}, t)$ that describes the wave, A homogeneous plane wave, propagating in the direction of $\mathbf{k}$ with a phase velocity $\omega/k$ is described by
+
+$$\psi(\mathbf{r}, t) = c \exp[i (\mathbf{k} \cdot \mathbf{r} - \omega t)]$$
