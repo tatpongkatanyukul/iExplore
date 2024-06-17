@@ -70,6 +70,6 @@ $$\sigma_k^2 = \langle (k - \langle k \rangle)^2 \rangle$$
 
 we can show (see Chapter 12) that
 
-$$\sigma_x \sigma_k \geq \frac{1}{2}$$ ,
+$$\sigma_x \sigma_k \geq \frac{1}{2}$$ 
 
 which shows that two conjugated variables as $x$ and $k$
