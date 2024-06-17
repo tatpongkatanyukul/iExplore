@@ -33,3 +33,11 @@ where $c$ is a complex constant, the absolute value of which is the amplitude of
 In general, a particle may be described by a superposition of many (a continuum of) waves of different wave vector and frequency:
 
 $$\psi(\mathbf{r}, t) = \int d \mathbf{k} \int d \omega G(\mathbf{k}, \omega) \exp[i (\mathbf{k} \cdot \mathbf{r} - \omega t)]$$
+
+where $G$ is a distribution function of the wave amplitude in $\mathbf{k}, \omega$ space.
+
+Here, we recognize that $\psi(\mathbf{r}, t)$ and $G(\mathbf{k},\omega)$ are each other's Fourier transform, although the sign conventions for the spatial and temporal transforms differ.
+
+## Time-dependent
+
+O
