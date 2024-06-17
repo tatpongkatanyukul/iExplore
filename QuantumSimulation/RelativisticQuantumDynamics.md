@@ -38,6 +38,6 @@ where $G$ is a distribution function of the wave amplitude in $\mathbf{k}, \omeg
 
 Here, we recognize that $\psi(\mathbf{r}, t)$ and $G(\mathbf{k},\omega)$ are each other's Fourier transform, although the sign conventions for the spatial and temporal transforms differ.
 
-## Time-dependent
+## Time-dependent wave function
 
-O
+Of course, the transform can also be limited to the spatial variable only, yielding a time-dependent distribution in $\mathbf{k}$-space (we introduce a factor of $(2 \pi)^{-3/2}$ for symmetry reasons):
