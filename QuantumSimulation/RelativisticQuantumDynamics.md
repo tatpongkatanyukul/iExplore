@@ -153,6 +153,8 @@ Let us assume that $g(k,0)$ is a narrow distribution around a constant $k_0$, an
 
 $$k^2 = k_0^2 + 2 k_0 \Delta k + (\Delta k)^2$$
 
+[Me: $k = k_0 + \Delta k$ and $(k_0 + \Delta k)^2$]
+
 $$\bar{h} k_0 = m v$$
 
 [Me: $E = \bar{h} \omega$; $\omega = E/\bar{h}$]
