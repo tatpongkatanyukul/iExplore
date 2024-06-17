@@ -99,4 +99,6 @@ The identifications $\mathbf{p} = \bar{h} \mathbf{k}$ and $E = \bar{h} \omega$ a
 
 $$\hat{\mathbf{p}} = -i \bar{h} \nabla$$
 
-$$\hat{p}^2$$
+$$\hat{p}^2 = - \bar{h}^2 \nabla ^ 2 $$
+
+$$\hat{E} = i \bar{h} \frac{\partial}{\partial t}
