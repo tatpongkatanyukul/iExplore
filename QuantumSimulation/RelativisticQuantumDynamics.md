@@ -154,3 +154,11 @@ Let us assume that $g(k,0)$ is a narrow distribution around a constant $k_0$, an
 $$k^2 = k_0^2 + 2 k_0 \Delta k + (\Delta k)^2$$
 
 $$\bar{h} k_0 = m v$$
+
+In these terms the wave function can be written as 
+
+$$\Psi (x,t) = \frac{1}{\sqrt{2 \pi}} \exp [ i k_0 (x - \frac{1}{2} v t)] $$
+
+$$= \int_{-\infy}^\infy d \Delta k g(\Delta k, t) \exp [i \Delta k (x - v t)]$$
+
+$$g(k,t) = g(k,0) \exp [-i \frac{\bar{h} (\Delta k)^2 t}{2 m}]$$
