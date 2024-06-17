@@ -55,3 +55,5 @@ The next crucial step is one of interpretation: we interpret $\Psi^\ast \Psi(\ma
 $$\int d \mathbf{r} \Psi^\ast \Psi(\mathbf{r}, t) = 1$$
 
 where the integration is over all space. Likewise $g^\ast g$ is the probability density in $\mathbf{k}$-space; the normalization of $g^\ast g$ is automatically satisfied:
+
+$$\int d \mathbf{k} g^\ast g(\mathbf{k}, t) = 1$$
