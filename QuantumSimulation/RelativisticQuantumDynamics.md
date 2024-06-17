@@ -77,7 +77,7 @@ This is Heisenberg's _uncertainty relation_, which also applies to $t$ and $\ome
 
 As shown in Chapter 12, averages over $\mathbf{k}$ and powers of $k$ can be rewritten in terms of the spatial wave function $\Psi$:
 
-\begin{align}
+\begin{equation}
 \langle \mathbf{k} \rangle (t) &= \\
 \langle k^2 \rangle (t) &= 
-\end{align}
+\end{equation}
