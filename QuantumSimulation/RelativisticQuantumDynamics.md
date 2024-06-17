@@ -161,10 +161,11 @@ $$\bar{h} k_0 = m v$$
 
 In these terms the wave function can be written as 
 
-$$\Psi (x,t) = \frac{1}{\sqrt{2 \pi}} \exp [ i k_0 (x - \frac{1}{2} v t)] $$
+$$\Psi (x,t) = \frac{1}{\sqrt{2 \pi}} \exp [ i k_0 (x - \frac{1}{2} v t)] + \int_{-\infty}^\infty d \Delta k g(\Delta k, t) \exp [i \Delta k (x - v t)]$$
 
 [Me: from $\omega = \frac{\bar{h} k^2}{2 m} = \frac{p k}{2 m} = \frac{1}{2} v k$.]
 
-$$\Psi (x,t) = \int_{-\infty}^\infty d \Delta k g(\Delta k, t) \exp [i \Delta k (x - v t)]$$
-
 $$g(k,t) = g(k,0) \exp [-i \frac{\bar{h} (\Delta k)^2 t}{2 m}]$$
+
+The factor in front of the integral is a time-dependent phase factor thtat is irrelevant for the shape of the density distribution since it cancels in $\Psi^\ast \Psi$.
+The packet shape (in space) depends on $x' = x = v t$ and thus the packet travels with the _group velocity_ $v  d \omega / d k$.
