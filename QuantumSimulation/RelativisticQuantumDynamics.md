@@ -129,3 +129,6 @@ give the following equations of motion for the wave function:
 
 $$i \bar{h} \frac{\partial \Psi(x,t)}{\partial t} = - \frac{\bar{h}^2}{2 m} \frac{\partial^2 \Psi}{\partial x^2}$$
 
+or
+
+$$\frac{\partial \Psi}{\partial t} = \frac{i \bar{h}}{2 m} \frac{\partial^2 \Psi}{\partial x^2}$$
