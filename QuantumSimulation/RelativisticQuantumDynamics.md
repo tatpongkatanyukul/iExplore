@@ -254,3 +254,4 @@ Dirac devised an ingeneous way to linearize $E^2 = m^2 c^4 + \mathbf{p}^2 c^2 $.
 Let us first consider the case of one spatial dimension, where motion is allowed only in the $x$-direction, and angular momentum cannon exist.
 Instead of taking a square root of $E^2 = m^2 c^4 + \mathbf{p}^2 c^2 $, which would involve the square root of the operator $\hat{p}$, one can devise a two-dimensional _matrix equation_ which in fact equals a set of equations with multiple solutions:
 
+$$i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = c () \Psi $$
