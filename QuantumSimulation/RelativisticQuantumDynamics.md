@@ -324,3 +324,5 @@ This term makes it impossible to exactly separate the spin and orbital momenta; 
 Let us now look at the relativisti effects viewed as a perturbation of the non-relativistic Schro\"dinger equation.
 We may first remark that spin can be separately and ad hoc introduced into the non-relativistic case as a new degree of freedom with two states.
 Each electron spin has associated with it an angular momentum $\mathbf{S} \bar{h}$ and a _magnetic moment_ $\mu = - \gamma_e \mathbf{S} \bar{h}$, where $\gamma_e$ is the electron's gyromagnetic ratio.
+
+The spin-orbit interaction term can then be computed from the classical interaction of the electron magnetic moment with the magnetic fidl that arises at the electron due to its orbital motion around a charged mucleus.
