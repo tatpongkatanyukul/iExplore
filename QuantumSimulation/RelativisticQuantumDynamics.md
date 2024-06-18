@@ -290,3 +290,8 @@ the wave function $\Psi_S$ mixes slightly in with the particle wave function $\P
 The eigenfunctions of the Hamiltonian matrix are
 
 $$\hat{H} = \pm c (m^2 c^2 + \hat{p}^2)^{1/2} $$
+
+which gives, after expanding the square root to first order in powers of $p/mc$, 
+the particle solution
+
+$$i \bar{h} \frac{\partial \Psi}{\partial t} \approx (m c^2 + \frac{\hat{p}^2}{2 m}) \Psi $$
