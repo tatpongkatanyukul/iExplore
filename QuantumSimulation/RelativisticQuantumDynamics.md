@@ -336,3 +336,6 @@ $$\frac{E}{c} = \sqrt{m^2 c^2 + p^2}$$
 $$E = m c^2 \left( 1 + \frac{p^2}{2 m^2 c^2} - \frac{p^4}{8 m^4 c^4} + \cdots \right) $$
 
 $$E = m c^2 + \frac{p^2}{2 m} - \frac{p^4}{8 m^3 c^2} + \cdots $$ 
+
+The first term is an irrelevant zero-point energy, the second term gives us the non-relativistic Schro\"dinger equation, and the third term gives a relativistic correction. Let us estimate its magnitude by a classical argument.
+
