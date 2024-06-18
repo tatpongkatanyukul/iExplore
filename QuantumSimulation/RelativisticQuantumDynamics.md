@@ -344,4 +344,8 @@ From the balance between the nuclear attraction and the centrifugal force we con
 
 $$p^2 = -2 m E$$
 
+where $E$ is the (negative) total energy of the electron, 
+not including the term $m c^2$ (this also follows from the virial equation valid for a central Coulombic field: $E_{pot} = - 2 E_{kin}$ or $E = - E_{kin}$). [Me: $E_{pot}$ potential energy; $E_{kin}$ kinetic energy.]
+For the expectation value of the first relativistic correction we find a lower bound
 
+$$\frac{\langle p^4 \rangle}{8 m^3 c^2} \geq \frac{\langle p^2 \rangle^2}{8 m^3 c^2} = \frac{E^2}{2 m c^2}$$
