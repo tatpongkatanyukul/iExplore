@@ -297,3 +297,12 @@ the particle solution
 $$i \bar{h} \frac{\partial \Psi}{\partial t} \approx (m c^2 + \frac{\hat{p}^2}{2 m}) \Psi $$
 
 in which we recognize the Schro\"dinger equation for a free particle, with an extra constant, and irrelevant, zero-energy term $m c^2$.
+
+## Thre spatial dimensions
+
+In the case of three spatial dimensions, there are three $\alpha$-matrices for each of the spatial components; i.e., they form a vector $\alpha$ of three matrices $\alpha_x$, $\alpha_y$, $\alpha_z$.
+The simplest solution now requires four dimensions, and $\Psi$ becomes a four-dimensional vector.
+The Dirac equation now reads
+
+$$i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = t (\alpha \cdot \hat{\mathbf{p}} + \beta m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi}$$
+
