@@ -314,3 +314,9 @@ $$\alpha = \begin{bmatrix}\mathbf{0} & \mathbf{\sigma} ;\\ \mathbf{\sigma} & \ma
 * $\sigma_x =$ ```[0, 1; 1, 0]```
 * $\sigma_y =$ ```[0, -i; i, 0]```
 * $\sigma_z =$ ```[1, 0; 0, -1]``` 
+
+while $\beta$ is a diagonal matrix $\{ 1, 1, -1, -1 \}$ that separates two solutions around $+m c^2$ from two solutions around $- m c^2$.
+The wave function now also has four components, which refer to the two sets of solutions (electrons and positrons) each with two spin states.
+Thus spin is automatically introduced; it gives rise to an angular momentum $\mathbf{S} \bar{h}$ and an extra quantum number $S = 1/2$.
+By properly incorporating electromagnetic interactions, the small _spin-orbit interaction_, arising from magnetic coupling between the electron spin $\mathbf{S}$ and angular orbital momentum $\mathbf{L} \bar{h}$, is included in the solution of the Dirac equation.
+This term makes it impossible to exactly separate the spin and orbital momenta; in fact there is one quantum number for the total angular momentum.
