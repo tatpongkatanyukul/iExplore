@@ -304,7 +304,13 @@ In the case of three spatial dimensions, there are three $\alpha$-matrices for e
 The simplest solution now requires four dimensions, and $\Psi$ becomes a four-dimensional vector.
 The Dirac equation now reads
 
-$$i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = t (\alpha \cdot \hat{\mathbf{p}} + \beta m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi}$$
+$$i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = c (\alpha \cdot \hat{\mathbf{p}} + \beta m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi}$$
 
 where $\alpha_x$, $\alpha_y$, $\alpha_z$ and $\beta$ are mutually anti-commuting $4 \times 4$ matrices with their squares equal to the unit matrix.
 One choice of solution is:
+
+$$\alpha = \begin{bmatrix}\mathbf{0} & \mathbf{\sigma} ;\\ \mathbf{\sigma} & \mathbf{0} \end{bmatrix}$$
+
+* $\sigma_x =$ ```[0, 1; 1, 0]```
+* $\sigma_y =$ ```[0, -i; i, 0]```
+* $\sigma_z =$ ```[1, 0; 0, -1]``` 
