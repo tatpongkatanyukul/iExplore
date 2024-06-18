@@ -255,3 +255,7 @@ Let us first consider the case of one spatial dimension, where motion is allowed
 Instead of taking a square root of $E^2 = m^2 c^4 + \mathbf{p}^2 c^2 $, which would involve the square root of the operator $\hat{p}$, one can devise a two-dimensional _matrix equation_ which in fact equals a set of equations with multiple solutions:
 
 $$i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = c (\mathbf{\alpha} \hat{p} + \mathbf{\beta} m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi} $$
+
+where $\mathbf{\Psi}$ is a two-component vector, and $\mathbf{\alpha}$ and $\mathbf{\beta}$ are dimensionless Hermitian $2 \times 2$ matrices, chosen such that $E^2 = m^2 c^4 + \mathbf{p}^2 c^2 $ is satisfied for all solutions of $i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = c (\mathbf{\alpha} \hat{p} + \mathbf{\beta} m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi} $:
+
+$$(\mathbf{\alpha} \hat{p} + \mathbf{\beta} m c)^2 = (\hat{p}^2 + m^2 c^2) \mathbf{1}$$
