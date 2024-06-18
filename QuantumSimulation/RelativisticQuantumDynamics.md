@@ -243,4 +243,6 @@ From the quadratic form it is immediately clear that $E$ will have equivalent po
 one set around $+ m c^2$ and the other set around $- m c^2$.
 Only the first set corresponds to the solutions of the non-relativistic equation.
 
-Now identifying $E$ with $i \bar{h} \partial / \partial t$ and $\mathbf{p}$
+Now identifying $E$ with $i \bar{h} \partial / \partial t$ and $\mathbf{p}$ with $-i \bar{h} \nabla$ , we obtain the _Klein-Gordon equation_
+
+$$\left[ \left( - \frac{\partial^2 }{c^2 \partial t^2} + \nabla^2 \right) + \left( \frac{m c}{h} \right)^2 \right] \Psi = 0$$
