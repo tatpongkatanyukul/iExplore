@@ -321,8 +321,18 @@ Thus spin is automatically introduced; it gives rise to an angular momentum $\ma
 By properly incorporating electromagnetic interactions, the small _spin-orbit interaction_, arising from magnetic coupling between the electron spin $\mathbf{S}$ and angular orbital momentum $\mathbf{L} \bar{h}$, is included in the solution of the Dirac equation.
 This term makes it impossible to exactly separate the spin and orbital momenta; in fact there is one quantum number for the total angular momentum.
 
+## Relativisti effects viewed as a perturbation of the non-relativistic Schro\"dinger equation
+
 Let us now look at the relativisti effects viewed as a perturbation of the non-relativistic Schro\"dinger equation.
 We may first remark that spin can be separately and ad hoc introduced into the non-relativistic case as a new degree of freedom with two states.
 Each electron spin has associated with it an angular momentum $\mathbf{S} \bar{h}$ and a _magnetic moment_ $\mu = - \gamma_e \mathbf{S} \bar{h}$, where $\gamma_e$ is the electron's gyromagnetic ratio.
 
 The spin-orbit interaction term can then be computed from the classical interaction of the electron magnetic moment with the magnetic fidl that arises at the electron due to its orbital motion around a charged mucleus.
+
+The relativistic effects arising from the high velocity of the electron can be estimated from a Taylor expansion of the positive solution of $E^2 = m^2 c^4 + \mathbf{p}^2 c^2$
+
+$$\frac{E}{c} = \sqrt{m^2 c^2 + p^2}$$
+
+$$E = m c^2 \left( 1 + \frac{p^2}{2 m^2 c^2} - \frac{p^4}{8 m^4 c^4} + \cdots \right) $$
+
+$$E = m c^2 + \frac{p^2}{2 m} - \frac{p^4}{8 m^3 c^2} + \cdots $$ 
