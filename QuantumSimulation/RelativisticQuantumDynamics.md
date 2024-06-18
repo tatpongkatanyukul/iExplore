@@ -272,3 +272,6 @@ In other words, $\mathbf{\alpha}$ and $\mathbf{\beta}$ are Hermitian, anticommut
 (_Hermitian_ $\alpha^\dagger = \alpha$ because the eigenvalues must be real, 
 _anticommuting_ because $\alpha \beta + \beta \alpha = \mathbf{0}$,
 _unitary_ because $\alpha^2 = \alpha^\dagger \alpha = 1$.)
+The trivial solutions of the first two equations: $\mathbf{\alpha} = \pm \mathbf{1}$ and / or $\mathbf{\beta} = \pm \mathbf{1}$ do not satisfy the third equation.
+
+
