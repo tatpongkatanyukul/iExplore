@@ -266,4 +266,4 @@ $$\mathbf{\alpha}^2 \hat{p}^2 + (\mathbf{\alpha} \mathbf{\beta} + \mathbf{\beta}
 
 or
 
-$$\mathbf{\alpha}^2 = \mathbf{1}$$
+$$\mathbf{\alpha}^2 = \mathbf{1}, \mathbf{\beta}^2 = 1, \mathbf{\alpha} \mathbf{\beta} + \mathbf{\beta} \mathbf{\alpha} = \mathbf{0}$$
