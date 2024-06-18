@@ -211,4 +211,6 @@ where
 
 $$\gamma = \frac{1}{\sqrt{1 - v^2/c^2}}$$
 
-In _Minkovsky space_ of $1+3$ dimensions $(ct, x, y, z) = (c t, \mathbf{r})$
+In _Minkovsky space_ of $1+3$ dimensions $(ct, x, y, z) = (c t, \mathbf{r})$ vectors are _four-vector_ $v_\mu = (v_0, \mathbf{v}) (\mu = 0, 1, 2, 3)$ and we define the scalar or inner product of two four-vectors as
+
+$$v_\mu w_\mu \equiv v_0 w_0 - v_1 w_1 - v_2 w_2 - v_3 w_3 = v_0 w_0 - \mathbf{v} \cdot \mathbf{w}$$
