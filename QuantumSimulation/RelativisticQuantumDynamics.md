@@ -349,3 +349,10 @@ not including the term $m c^2$ (this also follows from the virial equation valid
 For the expectation value of the first relativistic correction we find a lower bound
 
 $$\frac{\langle p^4 \rangle}{8 m^3 c^2} \geq \frac{\langle p^2 \rangle^2}{8 m^3 c^2} = \frac{E^2}{2 m c^2}$$
+
+The correction is most important for 1s-electrons near highly charged nuclei; since $-E$ is proportional to $Z^2$,
+the correction is proportional to $Z^4$.
+For the hydrogen atom $E = -13.6$ eV while $m c^2 = 511$ keV and hence the correction is $0.18$ meV or 17 J/mol;
+for germanium (charage 32) the effect is expected to be a million times larger and be in the tens of MJ/mol.
+Thus the effect is not at all negligible and a relativistic treatment for the inner shells of heavy atoms is mandatory.
+For molecules with first-row atoms the relativistic correction to the total energy is still large (-146 kJ/mol for $H_2 O$, but the effects on binding energies and on equilibrium geometry are small (dissociation energy of $H_2 O$ into atoms: -1.6 kJ/mol, equilibrium OH dstance: -0.003 pm, equilibrium angle: -0.08 deg).
