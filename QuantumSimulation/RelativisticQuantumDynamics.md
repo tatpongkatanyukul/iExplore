@@ -215,7 +215,7 @@ In _Minkovsky space_ of $1+3$ dimensions $(ct, x, y, z) = (c t, \mathbf{r})$ vec
 
 $$v_\mu w_\mu \equiv v_0 w_0 - v_1 w_1 - v_2 w_2 - v_3 w_3 = v_0 w_0 - \mathbf{v} \cdot \mathbf{w}$$
 
-The notation $v_\mu w_\mu$ uses the Einstein summation convetion ($\sum_{\mu=0}^3$ over repeating indices is assumed, taking the signs into account as in f$v_\mu w_\mu \equiv v_0 w_0 - v_1 w_1 - v_2 w_2 - v_3 w_3$).
+The notation $v_\mu w_\mu$ uses the Einstein summation convetion ($\sum_{\mu=0}^3$ over repeating indices is assumed, taking the signs into account as in $v_\mu w_\mu \equiv v_0 w_0 - v_1 w_1 - v_2 w_2 - v_3 w_3$).
 The square magnitude or length of a four-vector is the scalar productwith itself; not that such a square length may be positive or negative.
 Lorentz transformations are all transformations in Minkowski space that leave $d x_\mu  d x_\mu = (c d \tau)^2$ invariant; they of course include all space-like rotations for which $d \tau = 0$.
 Vectors that represent physical quantities are invariant for Lorentz transformations, and hence their scalar products and square magnitudes are constants.
