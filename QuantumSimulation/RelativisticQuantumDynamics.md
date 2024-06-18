@@ -320,3 +320,7 @@ The wave function now also has four components, which refer to the two sets of s
 Thus spin is automatically introduced; it gives rise to an angular momentum $\mathbf{S} \bar{h}$ and an extra quantum number $S = 1/2$.
 By properly incorporating electromagnetic interactions, the small _spin-orbit interaction_, arising from magnetic coupling between the electron spin $\mathbf{S}$ and angular orbital momentum $\mathbf{L} \bar{h}$, is included in the solution of the Dirac equation.
 This term makes it impossible to exactly separate the spin and orbital momenta; in fact there is one quantum number for the total angular momentum.
+
+Let us now look at the relativisti effects viewed as a perturbation of the non-relativistic Schro\"dinger equation.
+We may first remark that spin can be separately and ad hoc introduced into the non-relativistic case as a new degree of freedom with two states.
+Each electron spin has associated with it an angular momentum $\mathbf{S} \bar{h}$ and a _magnetic moment_ $\mu = - \gamma_e \mathbf{S} \bar{h}$, where $\gamma_e$ is the electron's gyromagnetic ratio.
