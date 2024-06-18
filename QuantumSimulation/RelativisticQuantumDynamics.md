@@ -356,3 +356,17 @@ For the hydrogen atom $E = -13.6$ eV while $m c^2 = 511$ keV and hence the corre
 for germanium (charage 32) the effect is expected to be a million times larger and be in the tens of MJ/mol.
 Thus the effect is not at all negligible and a relativistic treatment for the inner shells of heavy atoms is mandatory.
 For molecules with first-row atoms the relativistic correction to the total energy is still large (-146 kJ/mol for $H_2 O$, but the effects on binding energies and on equilibrium geometry are small (dissociation energy of $H_2 O$ into atoms: -1.6 kJ/mol, equilibrium OH dstance: -0.003 pm, equilibrium angle: -0.08 deg).
+
+In addition to the spin and energetic effects, the 1s-wave functions contract and become "smaller"; higher s-wave functions also contract because they remain orthogonal to the 1s-functions.
+Because the contracted s-electrons offer a better shielding of the nuclear charge, orbitals with higher angular momentum tend to expand.
+The effect on outer shell behavior is a secondary effect of the perturbation of inner shells: 
+therefore, for quantum treatments that represent inner shells by _effective core potentials_, as in most practical applications of density functional theory, 
+the relativistic corrections can be well accounted for in the core potentials without the need for relativistic treatment of the outer shell electrons.
+
+Relativistic effects show up most clearly in the properties of heavy atoms, such as gold (atom number 79) and mercury (80).
+The fact that gold has its typical color, in contrast to silver (47) which has a comparable electron configuration, arises from the relatively high energy of the highest occupied d-orbital (due to the expansion of 5d<sub>3/2</sub>-orbital in combination with a high spin-orbit coupling) and the relatively low energy ofthe s-electrons in the conduction band (due to contraction of the 6s-orbitals), 
+thus allowing light absorption in the visible region of the spectrum.
+The fact that mercury is a liquid (in contrast to cadmium (48), which has a comparable electron configuration) arises from the contraction of the 6s-orbitals, which are doubly occupied and so localized and "buried" in the electronic structure that they contribute little to the conduction band.
+Mercury atoms therefore resemble noble gas atoms with weak interatomic interactions.
+Because the enthalpy of fusion (2.3 kJ/mol) is low, the melting point (234K) is low.
+For cadmium the heat of fusion is 6.2 kJ/mol and the melting point is 594K. For the same reason mercury is a much poorer conductor (by a factor of 14) than cadmium.
