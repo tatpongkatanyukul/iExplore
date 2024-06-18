@@ -283,3 +283,5 @@ $$\mathbf{\alpha} = \begin{bmatrix}0 & 1 ;\\ 1 & 0 \end{bmatrix}; \mathbf{\beta}
 Inserting this choice into $i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = c (\mathbf{\alpha} \hat{p} + \mathbf{\beta} m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi} $ yields the following matrix differential equation:
 
 $$i \bar{h} \frac{\partial}{\partial t} \begin{bmatrix} \Psi_L ;\\ \Psi_S \end{bmatrix} = c \begin{bmatrix} mc & \hat{p} ;\\ \hat{p} & - m c \end{bmatrix} \begin{bmatrix} \Psi_L ;\\ \Psi_S \end{bmatrix}$$
+
+We see that in a coordinate frame moving with the particle ($p = 0$) there are two solutions: $\Psi_L$ corresponding to particles (electrons) withh positive energy $E = m c^2$ ;
