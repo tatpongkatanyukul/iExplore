@@ -274,4 +274,9 @@ _anticommuting_ because $\alpha \beta + \beta \alpha = \mathbf{0}$,
 _unitary_ because $\alpha^2 = \alpha^\dagger \alpha = 1$.)
 The trivial solutions of the first two equations: $\mathbf{\alpha} = \pm \mathbf{1}$ and / or $\mathbf{\beta} = \pm \mathbf{1}$ do not satisfy the third equation.
 
+There are many solutions to all three equations. In fact, when a matrix pair $\mathbf{\alpha}$, $\mathbf{\beta}$ forms a solution, the matrix pair 
+$\mathbf{U} \mathbf{\alpha} \mathbf{U}^\dagger$, 
+$\mathbf{U} \mathbf{\beta} \mathbf{U}^\dagger$, constructed by a unitary transformation $\mathbf{U}$, forms a solution as well. A simple choice is
+
+$$\mathbf{\alpha} = \begin{bmatrix}0 & 1 \\ 1 & 0 \end{bmatrix}; \mathbf{\beta} = \begin{bmatrix}1 & 0 \\ 0 & -1 \end{bmatrix}$$
 
