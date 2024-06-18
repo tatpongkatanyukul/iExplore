@@ -259,3 +259,11 @@ $$i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = c (\mathbf{\alpha} \hat{
 where $\mathbf{\Psi}$ is a two-component vector, and $\mathbf{\alpha}$ and $\mathbf{\beta}$ are dimensionless Hermitian $2 \times 2$ matrices, chosen such that $E^2 = m^2 c^4 + \mathbf{p}^2 c^2 $ is satisfied for all solutions of $i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = c (\mathbf{\alpha} \hat{p} + \mathbf{\beta} m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi} $:
 
 $$(\mathbf{\alpha} \hat{p} + \mathbf{\beta} m c)^2 = (\hat{p}^2 + m^2 c^2) \mathbf{1}$$
+
+This implies that
+
+$$\mathbf{\alpha}^2 \hat{p}^2 + (\mathbf{\alpha} \mathbf{\beta} + \mathbf{\beta} \mathbf{\alpha}) m c \hat{p} + \mathbf{\beta}^2 m^2 c^2 = (\hat{p}^2 + m^2 c^2 ) \mathbf{1}$$
+
+or
+
+$$\mathbf{\alpha}^2 = \mathbf{1}$$
