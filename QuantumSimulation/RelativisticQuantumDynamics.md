@@ -267,3 +267,8 @@ $$\mathbf{\alpha}^2 \hat{p}^2 + (\mathbf{\alpha} \mathbf{\beta} + \mathbf{\beta}
 or
 
 $$\mathbf{\alpha}^2 = \mathbf{1}, \mathbf{\beta}^2 = 1, \mathbf{\alpha} \mathbf{\beta} + \mathbf{\beta} \mathbf{\alpha} = \mathbf{0}$$
+
+In other words, $\mathbf{\alpha}$ and $\mathbf{\beta}$ are Hermitian, anticommuting, and unitary matrices.
+(_Hermitian_ $\alpha^\dagger = \alpha$ because the eigenvalues must be real, 
+_anticommuting_ because $\alpha \beta + \beta \alpha = \mathbf{0}$,
+_unitary_ because $\alpha^2 = \alpha^\dagger \alpha = 1$.)
