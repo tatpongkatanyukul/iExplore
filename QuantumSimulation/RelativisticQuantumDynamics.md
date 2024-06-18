@@ -306,3 +306,5 @@ The Dirac equation now reads
 
 $$i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} = t (\alpha \cdot \hat{\mathbf{p}} + \beta m c) \mathbf{\Psi} = \hat{\mathbf{H}} \mathbf{\Psi}$$
 
+where $\alpha_x$, $\alpha_y$, $\alpha_z$ and $\beta$ are mutually anti-commuting $4 \times 4$ matrices with their squares equal to the unit matrix.
+One choice of solution is:
