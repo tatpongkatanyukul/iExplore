@@ -284,4 +284,4 @@ Inserting this choice into $i \bar{h} \frac{\partial \mathbf{\Psi}}{\partial t} 
 
 $$i \bar{h} \frac{\partial}{\partial t} \begin{bmatrix} \Psi_L ;\\ \Psi_S \end{bmatrix} = c \begin{bmatrix} mc & \hat{p} ;\\ \hat{p} & - m c \end{bmatrix} \begin{bmatrix} \Psi_L ;\\ \Psi_S \end{bmatrix}$$
 
-We see that in a coordinate frame moving with the particle ($p = 0$) there are two solutions: $\Psi_L$ corresponding to particles (electrons) withh positive energy $E = m c^2$ ;
+We see that in a coordinate frame moving with the particle ($p = 0$) there are two solutions: $\Psi_L$ corresponding to particles (electrons) with positive energy $E = m c^2$ ;
