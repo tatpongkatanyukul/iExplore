@@ -133,7 +133,7 @@ or
 
 $$\frac{\partial \Psi}{\partial t} = \frac{i \bar{h}}{2 m} \frac{\partial^2 \Psi}{\partial x^2}$$
 
-This is in fact the time-dependent Schro\:dinger equation.
+This is in fact the time-dependent Schro\"dinger equation.
 This equation looks much like Fick's diffusion equation, with the difference that the diffusion constant is now imaginary (or, equivalently, that the diffusion takes place in imaginary time).
 
 If we choose an initial wave function $\Psi(x,0)$, with Fourier transform $g(k,0)$, then the solution of $\frac{\partial \Psi}{\partial t} = \frac{i \bar{h}}{2 m} \frac{\partial^2 \Psi}{\partial x^2}$ is simply
@@ -247,7 +247,7 @@ Now identifying $E$ with $i \bar{h} \partial / \partial t$ and $\mathbf{p}$ with
 
 $$\left[ \left( - \frac{\partial^2 }{c^2 \partial t^2} + \nabla^2 \right) + \left( \frac{m c}{h} \right)^2 \right] \Psi = 0$$
 
-This equation has the right relativistic symmetry (which the Schro\:dinger equation does not have), 
+This equation has the right relativistic symmetry (which the Schro\"dinger equation does not have), 
 but unfortunately no solutions with real scalar densities $\Psi^ \ast \Psi$ exist.
 
 Dirac devised an ingeneous way to linearize $E^2 = m^2 c^4 + \mathbf{p}^2 c^2 $.
@@ -296,4 +296,4 @@ the particle solution
 
 $$i \bar{h} \frac{\partial \Psi}{\partial t} \approx (m c^2 + \frac{\hat{p}^2}{2 m}) \Psi $$
 
-in which we recognize the Schro\:dinger equation for a free particle, with an extra constant, and irrelevant, zero-energy term $m c^2$.
+in which we recognize the Schro\"dinger equation for a free particle, with an extra constant, and irrelevant, zero-energy term $m c^2$.
