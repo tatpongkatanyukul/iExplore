@@ -227,3 +227,19 @@ Without any derivation, we list a number of relevant physical four-vectors, as t
 * velocity: $u_\mu = (\gamma c, \gamma \mathbf{v})$;
 * momentum: $p_\mu = m u_\mu = (\gamma m c, \gamma m \mathbf{v})$.
 
+Here $m$ is the (rest) mass of the particle. The first component of the momentum four-vector is identified with the energy $E/c$, so that $E = \gamma m c^2$.
+Note the following constant square lengths:
+
+$$u_\mu u_\mu = c^2$$
+
+$$p_\mu p_\mu = \frac{E^2}{c^2} - \mathbf{p}^2 = m^2 c^2$$
+
+or
+
+$$E^2 = m^2 c^4 + \mathbf{p}^2 c^2 $$
+
+This is the relation between energy and momentum that we are looking for.
+From the quadratic form it is immediately clear that $E$ will have equivalent positive and negative solutions,
+one set around $+ m c^2$ and the other set around $- m c^2$.
+Only the first set corresponds to the solutions of the non-relativistic equation.
+
