@@ -243,3 +243,4 @@ From the quadratic form it is immediately clear that $E$ will have equivalent po
 one set around $+ m c^2$ and the other set around $- m c^2$.
 Only the first set corresponds to the solutions of the non-relativistic equation.
 
+Now identifying $E$ with $i \bar{h} \partial / \partial t$ and $\mathbf{p}$
