@@ -296,4 +296,4 @@ the particle solution
 
 $$i \bar{h} \frac{\partial \Psi}{\partial t} \approx (m c^2 + \frac{\hat{p}^2}{2 m}) \Psi $$
 
-in which we recognize the Schro\:dinger equation for a free particle, with an extra constant, and irrelevant, zero-energy term $m c^2$.
+in which we recognize the Schr$o\:$dinger equation for a free particle, with an extra constant, and irrelevant, zero-energy term $m c^2$.
