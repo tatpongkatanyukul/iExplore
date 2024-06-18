@@ -246,3 +246,8 @@ Only the first set corresponds to the solutions of the non-relativistic equation
 Now identifying $E$ with $i \bar{h} \partial / \partial t$ and $\mathbf{p}$ with $-i \bar{h} \nabla$ , we obtain the _Klein-Gordon equation_
 
 $$\left[ \left( - \frac{\partial^2 }{c^2 \partial t^2} + \nabla^2 \right) + \left( \frac{m c}{h} \right)^2 \right] \Psi = 0$$
+
+This equation has the right relativistic symmetry (which the Schro\:dinger equation does not have), 
+but unfortunately no solutions with real scalar densities $\Psi^ \ast \Psi$ exist.
+
+
