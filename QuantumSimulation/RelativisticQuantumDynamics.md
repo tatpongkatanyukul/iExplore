@@ -203,4 +203,6 @@ The relation between energy and momentum (for a free particle) that we used in t
 In non-relativsitic physics we assume that the laws of physics are invariant for a translation of the spatial and time origins of our coordinate system and also for a rotation of the coordinate system; this leads to fundamental conservation laws for momentum, energy, and angular momentum, respectively.
 
 In the theory of special relativity the additional basic assumption is that the laws of physics, including the velocity of light, are also invariant if we transform our coordinate system to one moving at a constant speed with respect to the original one.
-Where for normal rotations in 3D-space we require that the square of length elements $(d\mathbf{r})^2$ is invariant.
+Where for normal rotations in 3D-space we require that the square of length elements $(d\mathbf{r})^2$ is invariant, the requirement of the constant speed of light implies that for transformations to a moving frame $(c d \tau)^2 = (c d t)^2 - (d \mathbf{r})^2$ is invariant. For $1+1$ dimensions where we transform from $(x,t)$ to $x'$, $t'$ in a frame moving with velocity $v$, this leads to the _Lorentz transformation_
+
+$$\left( \begin{bmatrix}x \\ c t \end{bmatrix} \right)$$
