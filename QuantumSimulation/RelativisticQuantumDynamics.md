@@ -214,3 +214,16 @@ $$\gamma = \frac{1}{\sqrt{1 - v^2/c^2}}$$
 In _Minkovsky space_ of $1+3$ dimensions $(ct, x, y, z) = (c t, \mathbf{r})$ vectors are _four-vector_ $v_\mu = (v_0, \mathbf{v}) (\mu = 0, 1, 2, 3)$ and we define the scalar or inner product of two four-vectors as
 
 $$v_\mu w_\mu \equiv v_0 w_0 - v_1 w_1 - v_2 w_2 - v_3 w_3 = v_0 w_0 - \mathbf{v} \cdot \mathbf{w}$$
+
+The notation $v_\mu w_\mu$ uses the Einstein summation convetion ($\sum_{\mu=0}^3$ over repeating indices is assumed, taking the signs into account as in v_\mu w_\mu \equiv v_0 w_0 - v_1 w_1 - v_2 w_2 - v_3 w_3$).
+The square magnitude or length of a four-vector is the scalar productwith itself; not that such a square length may be positive or negative.
+Lorentz transformations are all transformations in Minkowski space that leave $d x_\mu  d x_\mu = (c d \tau)^2$ invariant; they of course include all space-like rotations for which $d \tau = 0$.
+Vectors that represent physical quantities are invariant for Lorentz transformations, and hence their scalar products and square magnitudes are constants.
+
+Without any derivation, we list a number of relevant physical four-vectors, as they are defined in relativistic mechanics:
+
+* coordinates: $x_\mu = (c t, \mathbf{r})$;
+* wave vector: $k_\mu = (\omega/c, \mathbf{k})$;
+* velocity: $u_\mu = (\gamma c, \gamma \mathbf{v})$;
+* momentum: $p_\mu = m u_\mu = (\gamma m c, \gamma m \mathbf{v})$.
+
