@@ -339,3 +339,9 @@ $$E = m c^2 + \frac{p^2}{2 m} - \frac{p^4}{8 m^3 c^2} + \cdots $$
 
 The first term is an irrelevant zero-point energy, the second term gives us the non-relativistic Schro\"dinger equation, and the third term gives a relativistic correction. Let us estimate its magnitude by a classical argument.
 
+Assume that the electron is in a circular orbital at a distance $r$ to a nucleus with charge $Z e$.
+From the balance between the nuclear attraction and the centrifugal force we conclude that
+
+$$p^2 = -2 m E$$
+
+
