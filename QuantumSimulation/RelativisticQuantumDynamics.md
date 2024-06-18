@@ -286,3 +286,7 @@ $$i \bar{h} \frac{\partial}{\partial t} \begin{bmatrix} \Psi_L ;\\ \Psi_S \end{b
 
 We see that in a coordinate frame moving with the particle ($p = 0$) there are two solutions: $\Psi_L$ corresponding to particles (electrons) with positive energy $E = m c^2$ ; and $\Psi_S$ corresponding to _antiparticles_ (positrons) with negative energy $E = - m c^2$.
 With non-relativistic velocities $p < < m c$,
+the wave function $\Psi_S$ mixes slightly in with the particle wave function $\Psi_L$ (hence the subscript $L$ for "Large" and $S$ for "small" when we consider particles).
+The eigenfunctions of the Hamiltonian matrix are
+
+$$\hat{H} = \pm c (m^2 c^2 + \hat{p}^2)^{1/2} $$
