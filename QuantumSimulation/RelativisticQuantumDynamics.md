@@ -195,3 +195,12 @@ By evaluating $\Psi^\ast \Psi$, we see that a Gaussian density is obtained with 
 
 $$\sigma^2(t) = \sigma_0^2 \left( 1 + \frac{\bar{h}^2 t^2}{4 m^2 \sigma_0^4} \right)$$
 
+---
+
+# Relativistic energy relations for a free particle
+
+The relation between energy and momentum (for a free particle) that we used in the previous section is incorrect for velocities that approach the speed of light.
+In non-relativsitic physics we assume that the laws of physics are invariant for a translation of the spatial and time origins of our coordinate system and also for a rotation of the coordinate system; this leads to fundamental conservation laws for momentum, energy, and angular momentum, respectively.
+
+In the theory of special relativity the additional basic assumption is that the laws of physics, including the velocity of light, are also invariant if we transform our coordinate system to one moving at a constant speed with respect to the original one.
+Where for normal rotations in 3D-space we require that the square of length elements $(d\mathbf{r})^2$ is invariant.
