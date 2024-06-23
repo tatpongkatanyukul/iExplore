@@ -370,3 +370,9 @@ The fact that mercury is a liquid (in contrast to cadmium (48), which has a comp
 Mercury atoms therefore resemble noble gas atoms with weak interatomic interactions.
 Because the enthalpy of fusion (2.3 kJ/mol) is low, the melting point (234K) is low.
 For cadmium the heat of fusion is 6.2 kJ/mol and the melting point is 594K. For the same reason mercury is a much poorer conductor (by a factor of 14) than cadmium.
+
+---
+
+# Electrodynamic interactions
+
+* [Electrodynamic interactions](https://github.com/tatpongkatanyukul/iExplore/blob/main/QuantumSimulation/Berendsen2p4_EDI.md)
