@@ -7,3 +7,12 @@ In general, what we need is the operator form of the _Hamiltonian_ $H$, which fo
 When the potential energy in an external field is a function $V(\mathbf{r})$ of the coordinates only, such as produced by a stationary electric potential, it is simply added to the kinetic energy:
 
 $$i \bar{h} \frac{\partial \Psi}{\partial t} = - \frac{\bar{h}^2}{2 m} \nabla^2 \Psi + V(\mathbf{r}) \Psi$$
+
+In fact, electrons feel the environment through electromagnetic interactions, in general with both an electric and a magnetic component.
+If the electric field is not stationary, there is in principle always a magnetic component.
+As we shall see, the magnetic component acts through the _vector potential_ that modifies the momentum of the particle.
+See Chapter 13 for the basic elements of electromagnetism.
+
+In order to derive the proper form of the electromagnetic interaction of a particle with charge $q$ and mass $m$, we must derive the _generalized momentum_ in the presence of a field.
+This is done by the Lagrangian formalism of mechanics, which is reviewed in Chapter 15.
+The Lagrangian $L(\mathbf{r}, \mathbf{v})$ is defined as $T - V$, where $T$ is the kinetic energy and $V$ is the potential energy.
