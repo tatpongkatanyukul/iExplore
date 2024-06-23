@@ -18,3 +18,5 @@ This is done by the Lagrangian formalism of mechanics, which is reviewed in Chap
 The Lagrangian $L(\mathbf{r}, \mathbf{v})$ is defined as $T - V$, where $T$ is the kinetic energy and $V$ is the potential energy.
 
 In the case of an electromagnetic interaction, the electrical potential energy is modified with a velocity-dependent term $-q \mathbf{A} \cdot \mathbf{v}$, where $\mathbf{A}$ is the _vector potential_ related to the magnetic field $\mathbf{B}$ by
+
+$$\mathbf{B} = \curl \mathbf{A}$$
