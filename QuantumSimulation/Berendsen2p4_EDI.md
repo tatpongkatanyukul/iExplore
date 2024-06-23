@@ -20,3 +20,15 @@ The Lagrangian $L(\mathbf{r}, \mathbf{v})$ is defined as $T - V$, where $T$ is t
 In the case of an electromagnetic interaction, the electrical potential energy is modified with a velocity-dependent term $-q \mathbf{A} \cdot \mathbf{v}$, where $\mathbf{A}$ is the _vector potential_ related to the magnetic field $\mathbf{B}$ by
 
 $$\mathbf{B} = \mathrm{curl} \mathbf{A}$$
+
+in a form which is invariant under a Lorentz transformation:
+
+$$V(\mathbf{r}, \mathbf{v}) = q \phi - q \mathbf{A} \cdot \mathbf{v}$$
+
+Thus the Lagrangian becomes
+
+$$L(\mathbf{r}, \mathbf{v}) = \frac{1}{2}m \mathbf{v}^2 - q \phi + q \mathbf{A} \cdot \mathbf{v}$$
+
+The reader should verify that with this Lagrangian the Euler-Lagrange equations of motion for the components of coordinates and velocities
+
+$$\frac{d}{d t} \left( \frac{\partial L}{\partial v_i} \right) = \frac{\partial L}{\partial x_i}$$
