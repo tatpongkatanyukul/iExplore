@@ -35,4 +35,8 @@ $$\frac{d}{d t} \left( \frac{\partial L}{\partial v_i} \right) = \frac{\partial 
 
 lead to the common Lorentz equation for the acceleration of a charge $q$ in an electromagnetic field
 
-$$m \dot{\mathbf{v}}$$
+$$m \dot{\mathbf{v}} = q (\mathbf{E} + \mathbf{v} \times \mathbf{B}) $$
+
+where
+
+$$\mathbf{E} \equiv - \nabla \phi - \frac{\partial \mathbf{A}}{\partial t}$$
