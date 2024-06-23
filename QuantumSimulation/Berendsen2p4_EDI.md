@@ -32,3 +32,7 @@ $$L(\mathbf{r}, \mathbf{v}) = \frac{1}{2}m \mathbf{v}^2 - q \phi + q \mathbf{A} 
 The reader should verify that with this Lagrangian the Euler-Lagrange equations of motion for the components of coordinates and velocities
 
 $$\frac{d}{d t} \left( \frac{\partial L}{\partial v_i} \right) = \frac{\partial L}{\partial x_i}$$
+
+lead to the common Lorentz equation for the acceleration of a charge $q$ in an electromagnetic field
+
+$$m \dot{\mathbf{v}}$$
