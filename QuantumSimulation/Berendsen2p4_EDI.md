@@ -71,3 +71,9 @@ The Dirac equation in the presence of an external field $(\mathbf{A}, \phi)$ has
 $$i \bar{h} \frac{\partial \Psi}{\partial t} = [c \alpha \cdot (\hat{\mathbf{p}} - q \mathbf{A}) + \beta m c^2 _ q \phi \mathbf{1}] = \hat{H} \Psi$$
 
 This equation naturally leads to both orbital and spin Zeeman interaction with a magnetic field and to spin-orbit interaction.
+
+The magnetic field component of the interaction between nuclei and electrons or electrons mutually 
+is generally ignored so that these interactions are described by the pure Coulomb term 
+which depends only on coordinates and not on velocities.
+If we also ignore magnetic interactions with external fields ($\mathbf{A} = 0$), we obtain for a $N$-particle system with masses $m_i$ and charges $q_i$ 
+the time-dependent Schro\"diger equation for the wave function $\Psi(\mathbf{r}_1, \ldots, \mathbf{r}_N, t)$:
