@@ -77,3 +77,10 @@ is generally ignored so that these interactions are described by the pure Coulom
 which depends only on coordinates and not on velocities.
 If we also ignore magnetic interactions with external fields ($\mathbf{A} = 0$), we obtain for a $N$-particle system with masses $m_i$ and charges $q_i$ 
 the time-dependent Schro\"diger equation for the wave function $\Psi(\mathbf{r}_1, \ldots, \mathbf{r}_N, t)$:
+
+\begin{align}
+i \bar{h} \frac{\partial \Psi}{\partial t} &= \hat{H} \Psi \\
+&= [- \sum_i \frac{\bar{h}^2}{2 m_i} \nabla_i^2 + \frac{1}{2} \frac{1}{4 \pi \epsilon_0} \sum_{i,j}' \frac{q_i q_j}{r_{ij}} + V_{ext}(\mathbf{r}_1, \ldots, \mathbf{r}_N,t)] \Psi
+\end{align}
+
+where the $1/2$ in the mutual Coulomb term corrects for double counting in the sum, the prime of the sum means exclusion of $i = j$, and the last term, if applicable, represents the energy in an external field.
