@@ -97,3 +97,9 @@ def shooting(m, E, V):
 def psi(m, E, V):
     # ...
 ```
+
+My note: Berendsen does not explain very much, does not even provide the example how to run code or how to put in values for the arguments.
+
+Better chance:
+* https://liu-group.github.io/interactive-Numerov-PIB/
+* 
