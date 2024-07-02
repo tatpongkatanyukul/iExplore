@@ -40,3 +40,34 @@ $$m \dot{\mathbf{v}} = q (\mathbf{E} + \mathbf{v} \times \mathbf{B}) $$
 where
 
 $$\mathbf{E} \equiv - \nabla \phi - \frac{\partial \mathbf{A}}{\partial t}$$
+
+The generalized momentum components $p_i$ are defined as
+
+$$p_i = \frac{\partial L}{\partial v_i}$$
+
+and hence
+
+$$\mathbf{p} = m \mathbf{v} + q \mathbf{A}$$
+
+or
+
+$$\mathbf{v} = \frac{1}{m} (\mathbf{p} - q \mathbf{A}) $$
+
+For the Schro\"dinger equation we need teh Hamiltonian $H$, which is defined as
+
+$$H \equiv \mathbf{p} \cdot \mathbf{v} - L = \frac{1}{2 m} (\mathbf{p} - q \mathbf{A})^2 + q \phi$$
+
+Thus the non-relativistic Schro\"diger equation of a particle with charge $q$ and mass $m$, 
+in the presence of an electromagnetic field is
+
+$$i \bar{h} \frac{\partial \Psi}{\partial t} = \hat{H} \Psi = \left[ -\frac{h^2}{2 m} \left( \nabla - \frac{i q \mathbf{A}}{\bar{h}} \right)^2 + q \phi(\mathbf{r}) \right] \Psi$$
+
+
+Being non-relativistic, this description ignores the magnetic effects of spin and orbital momentum, 
+i.e., both the spi-Zeeman term and the spin-orbit interaction, which must be added ad hoc if required.
+
+The Dirac equation in the presence of an external field $(\mathbf{A}, \phi)$ has the form:
+
+$$i \bar{h} \frac{\partial \Psi}{\partial t} = [c \alpha \cdot (\hat{\mathbf{p}} - q \mathbf{A}) + \beta m c^2 _ q \phi \mathbf{1}] = \hat{H} \Psi$$
+
+This equation naturally leads to both orbital and spin Zeeman interaction with a magnetic field and to spin-orbit interaction.
