@@ -102,4 +102,4 @@ My note: Berendsen does not explain very much, does not even provide the example
 
 Better chance:
 * https://liu-group.github.io/interactive-Numerov-PIB/
-* 
+* https://github.com/tatpongkatanyukul/iExplore/blob/main/QuantumSimulation/computational_physics.pdf
