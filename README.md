@@ -47,8 +47,8 @@ Materials
   * [2nd Order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/SecondOrderODELesson1v2.ipynb) (Done! 2023 Oct 12)
     * [LCA version: 2nd-order ODE](https://github.com/tatpongkatanyukul/iExplore/blob/main/Y2023/LCA_SecondOrderODEv1.ipynb) (Done! 2023 Oct 12)
   * [PDE]
-  * [Gram-Schmidt](https://colab.research.google.com/drive/1swzrtM-_w81g_o9GaQ6OqZvYTvbsfxQm#scrollTo=l_mlPngH2igQ) (Jan 21st)
-  * [Measure growth/alignment problem](https://github.com/tatpongkatanyukul/Learn/blob/main/Y2024/introCSE_ScipyV1.ipynb) (Feb 4th)
-  * [iDNAM Phase 1](https://github.com/tatpongkatanyukul/iDNAM/tree/main/Phase1) (Feb 28th)
+  * [Gram-Schmidt](https://colab.research.google.com/drive/1swzrtM-_w81g_o9GaQ6OqZvYTvbsfxQm#scrollTo=l_mlPngH2igQ) (2024 Jan 21st)
+  * [Measure growth/alignment problem](https://github.com/tatpongkatanyukul/Learn/blob/main/Y2024/introCSE_ScipyV1.ipynb) (2024 Feb 4th)
+  * [iDNAM Phase 1](https://github.com/tatpongkatanyukul/iDNAM/tree/main/Phase1) (2024 Feb 28th)
     * [zip](https://drive.google.com/file/d/1gsUO47Y9U0I_dv23tRzmZdoump4pCuVX/view?usp=drive_link) 
 * Nuclear engineering
